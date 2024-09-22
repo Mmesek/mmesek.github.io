@@ -1,0 +1,66 @@
+baseurl: /
+title: M-Page
+copyright: Copyright (c) 2024
+languageCode: en-US
+canonifyurls: true
+enableRobotsTXT: true
+enableGitInof: true
+
+theme: github.com/Mmesek/Hugo-mTheme
+
+googleAnalytics: 
+disqusShortname: 
+
+SectionPagesMenu: main
+
+pagination:
+  pagerSize: 10
+
+menu:
+  bottom:
+    - name: Posts
+      weight: -120
+      identifier: post
+      url: /articles/
+    - name: Tags
+      weight: -110
+      identifier: tag
+      url: /tags/
+
+taxonomies:
+  category: "categories"
+  group: "groups"
+  series: "series"
+  tag: "tags"
+
+markup:
+  highlight:
+    style: gruvbox  # dark themes: monokai, api, fruity, native, rrt, swapoff ... https://xyproto.github.io/splash/docs/longer/all.html
+
+params:
+  mainSections:
+    - articles
+    - journal
+  author:
+    name: Mmesek
+  meta:
+    description: Mms's website
+  utterancesRepo: Mmesek/mmesek.github.io # Utterances is enabled when this param is set
+  utterancesTheme: github-dark # Default: github-dark
+  utterancesIssueTerm: pathname # Default: pathname
+  kofi: mmesek
+  buymeacoffee: mmesek
+
+privacy:
+  googleAnalytics:
+    respectDoNotTrack: true
+  instagram:
+    simple: false
+  twitter:
+    enableDNT: true
+    simple: true
+  vimeo:
+    enableDNT: true
+    simple: false
+  youtube:
+    privacyEnhanced: true

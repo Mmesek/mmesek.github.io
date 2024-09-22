@@ -1,0 +1,1 @@
+docker run -p 1313:1313 -it --rm -v ${PWD}:/src hugomods/hugo:exts server --renderToMemory --noBuildLock --poll 1000ms
