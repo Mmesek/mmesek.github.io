@@ -6,7 +6,9 @@ canonifyurls: true
 enableRobotsTXT: true
 enableGitInof: true
 
-theme: github.com/Mmesek/Hugo-mTheme
+theme: 
+  - github.com/Mmesek/Hugo-mTheme
+  - github.com/gyorb/hugo-dusk
 
 googleAnalytics: 
 disqusShortname: 
