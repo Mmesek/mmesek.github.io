@@ -6,25 +6,24 @@ weight: 100
 meta: true
 comments: false
 ---
-
-Hello stranger. 
+Hello stranger. Welcome to my little corner on the internet.
+I've been wearing many hoodies, and these are my tales.
 
 ## Who am I?
-I've been wearing many hoodies, and these are my Tales.
 
-In a nutshell, my adventure with programming began in 2014, and in 2018 I've started programming in **Python**. 
-Then in 2019 I've coded **Discord bot** for one of servers I've been managing. As pandemic started in 2020, so did I start working full-time on what's been a hobby project.
+In a nutshell, my adventure with programming began in 2014, and in 2018 I started working with **Python**. 
+Then in 2019 I coded a **Discord bot** for one of servers I've been managing. As pandemic struck in 2020, I transitioned to working full-time on what was once just a hobby project.
 
-I'm also interested in **Cyber Security**, and have some *Red Team/Pentesting* experience.
-Few years later, I wake up with what seems to fit backend description under my belt: Databases, API, Caching, DevOps, Security... You name it.
+I'm also interested in **Cyber Security**, and have some *Red Team/Pen-testing* experience.
+A few years later, I found myself with a solid background in **Back-End** development under my belt: Databases, API, Caching, DevOps or Security... to name a few.
 
-But there's no rest for the wicked as in the meantime I've also developed minigames while voluneering as a moderator for gaming Discord servers, made couple of puzzles and played guitar.
-Now we are in 2024 and I've started training Parkour and eventually set off to explore Europe by Train with Interrail.
+But there's no rest for the wicked as in the meantime I've developed mini-games while volunteering as a moderator for gaming Discord servers, crafting puzzles and even strumming a few tunes on the guitar.
+Now we are in 2024, I've taken upon Parkour training and eventually set off to explore [Europe by Train with Interrail](/series/interrail-2024).
 
 ## Sounds interesting? 
 You can find on this website my journals from travels, insights from trenches as a developer, recipes from my kitchen and couple of other things too.
 
-## Work
+## Let's Work Together
 
 Want to hire me, or commission me a work? Head over to [contact](../contact). And if you need one, here's my [Resume](https://mmesek.github.io/resume).
 
