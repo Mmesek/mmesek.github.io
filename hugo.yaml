@@ -1,6 +1,5 @@
-baseurl: /
+baseurl: mmesek.github.io
 title: M-Page
-copyright: Copyright (c) 2024
 languageCode: en-US
 canonifyurls: true
 enableRobotsTXT: true
@@ -10,7 +9,7 @@ theme:
   - github.com/Mmesek/Hugo-mTheme
   - github.com/gyorb/hugo-dusk
 
-googleAnalytics: 
+googleAnalytics: G-7C702011LG
 disqusShortname: 
 
 SectionPagesMenu: main
