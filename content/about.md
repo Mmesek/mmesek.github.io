@@ -1,11 +1,11 @@
-+++
-title = "About"
-date = "2024-09-20"
-menu = "main"
-meta = true
-weight = 100
-comments = "disable"
-+++
+---
+title: About
+date: 2024-09-20
+menu: main
+weight: 100
+meta: true
+comments: false
+---
 
 Hello stranger. 
 

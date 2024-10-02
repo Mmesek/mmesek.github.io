@@ -3,7 +3,7 @@ title: Services
 date: 2024-09-22
 menu: main
 weight: 110
-comments: disable
+comments: false
 ---
 **What do I do?** Basically... I make machines talk to each other in an automated fashion!
 
