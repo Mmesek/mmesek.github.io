@@ -1,17 +1,27 @@
 meta:
-  - display: Github
+  - name: Github
     url: https://github.com/Mmesek
   - display: LinkedIn
+    icon: github
+  - name: LinkedIn
     url: https://www.linkedin.com/in/mmesek
+    icon: linkedin
 
 socials:
-  - display: Mastodon
+  - name: Mastodon
     url: https://mstdn.social/@Mmesek
-  - display: Youtube
+    icon: mastodon
+  - name: Youtube
     url: https://www.youtube.com/@TheMmesek
   - display: Twitch
+    icon: youtube
+  - name: Twitch
     url: https://www.twitch.tv/mmesek
   - display: Instagram
+    icon: twitch
+  - name: Instagram
     url: https://instagram.com/Mmesek
-  - display: Pixelfed
+    icon: instagram
+  - name: Pixelfed
     url: https://pixelfed.social/Mmesek
+    icon: pixelfed
