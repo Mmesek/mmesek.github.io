@@ -109,7 +109,7 @@ After a while of contemplating miniatures... lights go off, and I'm like, did th
 
 There was also a communicate that they are closing cafeteria in few minutes. I'm a bit hungry so let's check what they have to offer. There, I thought there's a yoghurt dessert behind glass like the label was saying, so half-happy I took it (there wasn't really anything else left to pick anyway) and proceeded to cash, where the price is higher by 2€! Wait what? I thought dessert is... that's... not dessert? But it was behind glass... oh... that's salad? Uh ok. Turned out it was a Cuscus Salad (I didn't have cuscus before so...).
 
-Afterwards I went to take a walk around the place, this time not *that* hungry, and after walking I probably entire place I went back to host's place around midnight or so, had to wait for them a while and we've chatted until 2am. Went to sleep at roughly 4am.
+Afterwards I went to take a walk around the place, this time not *that* hungry, and after walking around probably entire place went back to host's place around midnight or so. However since I was half dead, I may have not messaged them and had to wait a while. We've chatted until 2am. Then I proceeded to repack for the next day and somehow went to sleep at roughly 4am. Yay.
 
 > Day costs: 93.55€
 > - Card: 22.9  
@@ -117,3 +117,5 @@ Afterwards I went to take a walk around the place, this time not *that* hungry, 
 >	- Museums: 4.7
 > - Museums: 40.3
 > - Food: 30,35
+
+{{< track "Hamburg_2024-08-20.gpx" >}}
