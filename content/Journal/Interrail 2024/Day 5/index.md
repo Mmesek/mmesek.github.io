@@ -17,6 +17,8 @@ Similar destinations
 Late nights, Late trains  
 Little rest for weary travellers
 
+# Travel Companions
+
 While waiting on a train from Copenhagen at 1 am, few other people were also awaiting. Among them? Two other young people, one with a red hoodie, headphones and a suitcase and another with a sombrero-like straw hat. 
 
 I've approached the hat-wearing one, and asked if by any chance he was interrailing as well. 
@@ -43,9 +45,13 @@ On our train to Hengelo, last connection before train to Amsterdam, there was...
 
 ![|900x500](train_station.jpg)
 
+# Arrival
+
 We've arrived a little before 4 pm (yes, that means **15h** of travel jumping from train to train! Where I've slept at most for 2.5h), and what immediatly surprised me, was that in order to leave the platforms, you need to scan your train ticket again.
 
 We went to a hostel where my current travel companion was staying, took a ferry over the river, then after he checked-in I've went back where I've spent like 1.5h figuring out local public transport system. 
+
+# Tickets?
 
 More specifically, whether it's worth getting a pass for 2 days, just get tickets each time, or pay as I go with card which was entirely new concept to me, some lowly guy who only used regular buses with tickets before in his life.
 
@@ -56,12 +62,18 @@ At the GVB Office I was told to use [9292](https://9292.nl/en/) app for route pl
 
 ![|x700](streets.jpg)
 
-Another 1.5h of checking hostels and asking for prices in one, I've found myself an accomodation at Via Amsterdam around 7 pm. Truth be told, I was biased to go there from the begining as they offered [Bucket List](https://www.viahostels.com/bucket-list/), which was a map of the city with things to do.
+# Accommodation
+
+Another 1.5h of checking hostels and asking for prices at Flying Pig Downtown, which was a short walk from train station, so great for depature, however I ended up opting for a different one. 
+
+I've found myself an accomodation at Via Amsterdam around 7 pm. Truth be told, I was biased to go there from the begining as they offered [Bucket List](https://www.viahostels.com/bucket-list/), which was a map of the city with things to do.
 
 Sadly, I was a little bit overpacked and needed to repack before considering adding any more stuff so I passed on getting it. Nice souvenir but I didn't want it get destroyed like [chocolate](../day-2#chocoversum).
 
-Room I was in appeared to empty. Sweet.
-Rested for a while, which was mostly composed of attempting to bring myself to a usable state and recharged my phone, and then I've set out to explore the evening city past 9 pm. 
+Room I was in appeared to be empty. Sweet.
+Rested for a while, which was mostly composed of attempting to bring myself to a usable state, charged my phone, and then set out to explore the evening city past 9 pm. 
+
+# Dinner
 
 Went to The Pastry for the dinner and treated myself to something called "Danish menu 1" with modified desert: 
 - Pea soup
@@ -71,7 +83,11 @@ Desert turned out to be a stroopwaffle with an ice cream.
 
 Entire dinner was either delicious, or I was delirious and more hungry than I thought, as even the server was surprised when I finished a meal. Running entire night on Seven-Eleven's pizza *slice* and then day on a bunch of pastries does that I suppose. 
 
+# Evening City
+
 ![|Center|800x600](street_art.jpg)
+
+After dinner, not far away there was a line to a place that seemed like a night club, bouncer at the door was telling people that entry fee was 5€, however only couples could enter - you had to go with someone, not alone. Should I try to ask some strangers? Naah, entry fee? To be fair, clubs in my city spoiled me with free entries from the list.
 
 On a walk, passed some drunk Polish guys, bidding themselves farewells with infamous amount of swearing. Didn't take that long to meet more country men it seems.
 
@@ -81,6 +97,8 @@ A surprising amount of cyclists were riding these dark streets at such a late ho
 
 ![|Top|x700](alley.jpg)
 
+# Dangers of the night
+
 While walking surprisingly empty alleyways, compared to bustling with life (or tourists?) same streets during day, I've passed few groups of people. One of initial encounters was slightly unsettling: When I was pondering the difference in street life, one of people from group that was passing by in the opposite direction, made a mock stabbing gesture as they walked by, which aside of being briefly frightening, made me wonder how safe the city I was in was at night, and whether perhaps lack of life at night was a sign of trouble instead.
 
 Not long after, I've seen the terror that haunts these streets at night firsthand: a pack of rats rushed from one alley to another. Moment they entered the opposite one, the sound of a little girl's terrified shriek could be heard. Heartbeats later, a group of men, including one particulary large individual who was visibly shaking, emerged from that same alleyway. And to think I was considering being scared of people at night just a few moments earlier.
@@ -88,6 +106,8 @@ Not long after, I've seen the terror that haunts these streets at night firsthan
 ![|Top|900x600](train_station_night.jpg)
 
 Before heading to the hostel for the night, I've chilled at the pier opposite to the central station for a while. Artificial lights, cold breeze, few lovebirds sitting on the next and another individual at the last dock being only company. 
+
+# Night buses
 
 Few photos later, I've set out to search for the bus stop. [9292](https://9292.nl/en/) public transport app told me to go to the other side of the train station. So I attempted to go "through" train station. However the doors appeared closed. As I was heading to the passage nearby, I've met couple late for their train asking if the doors were locked. Short chat later they told me even if the doors were open the guards wouldn't let me through unless I had a ticket, because apparently only people with tickets could enter the building. They've pointed me in the direction of passage and that bus stops were indeed on the other side.
 After I've made my way through that passage, turned out that the bus stop was actually past the gates so I had to enter the station. The guards upon showing them the QR code ticket did indeed let me in. Meanwhile, whether that couple managed to catch their train remains a mystery.
