@@ -11,6 +11,7 @@ tags:
 prev: Journal/Interrail 2024/day-4
 next: Journal/Interrail 2024/day-6
 draft: false
+featured_image: streets.jpg
 ---
 >Fellow travellers   
 Similar destinations  
@@ -25,7 +26,8 @@ I've approached the hat-wearing one, and asked if by any chance he was interrail
 
 > How to spot an interrailer 101? Backpack, waiting for a train, late at night.
 
-He was, and his previous destination was Amsterdam! He was also traveling thanks to [DiscoverEU](https://youth.europa.eu/discovereu_en), which as he told me, gives you like a week of travel within a month. I've been almost called out for missing a lot due to not staying at a hostel before as he witnessed "some wild stuff" happen during his stays.
+He was, and his previous destination was Amsterdam! So we talked a bit about the city, and he mentioned that coffee shops there have bouncers, and there's no coffee to be found.
+He was also traveling thanks to [DiscoverEU](https://youth.europa.eu/discovereu_en), which as he told me, gives you like a week of travel within a month. I've been also almost called out for missing a lot due to not staying at a hostel before as he witnessed "some wild stuff" happen during his stays.
 
 Well, they did say that travel broadens ones horizons after all ;)
 
@@ -64,11 +66,13 @@ At the GVB Office I was told to use [9292](https://9292.nl/en/) app for route pl
 
 # Accommodation
 
-Another 1.5h of checking hostels and asking for prices at Flying Pig Downtown, which was a short walk from train station, so great for depature, however I ended up opting for a different one. 
+Another 1.5h of checking hostels and asking for prices at Flying Pig Downtown, which was a short walk from train station, and thus great for depature. However I ended up opting for a different one. 
 
 I've found myself an accomodation at Via Amsterdam around 7 pm. Truth be told, I was biased to go there from the begining as they offered [Bucket List](https://www.viahostels.com/bucket-list/), which was a map of the city with things to do.
 
 Sadly, I was a little bit overpacked and needed to repack before considering adding any more stuff so I passed on getting it. Nice souvenir but I didn't want it get destroyed like [chocolate](../day-2#chocoversum).
+
+While I was checking in, another guy came to ask about a towel. Staff said it's like 6€ or so however you don't rent it but buy it and get to keep it. It seemed relatively big and I so don't have space in backpack D:
 
 Room I was in appeared to be empty. Sweet.
 Rested for a while, which was mostly composed of attempting to bring myself to a usable state, charged my phone, and then set out to explore the evening city past 9 pm. 
