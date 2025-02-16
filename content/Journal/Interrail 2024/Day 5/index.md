@@ -35,9 +35,9 @@ Well, they did say that travel broadens ones horizons after all ;)
 
 At 6 am, we were at the border waiting for connection train to Hamburg. There was initially a delay, (I still only had shorts and it was very early so temperature was also relatively chilly. Yay...) which my travel companion commented that's Deutsche Bahn for you. People near us laughed out loud. The train has been cancelled and next one would be an hour later, at 7:15 am. Which also meant we had to look for different connections after Hamburg. Despite the delay, that's a huge benefit of having a pass instead of fixed tickets - especially in a foreign land - flexibility.
 
-The hatted traveller was going to Berlin as a last place before heading home, which meant we only shared trains up until Hamburg. Then, on a platform waiting for next connection, I've spotted the same red hoodie from Copenhagen, so there was a chance he was also going to Amsterdam. Which now I've decided to approach too. and he was going there indeed!
+The hatted traveller was going to Berlin as a last place before heading home to Vienna in Austria, which meant we only shared trains up until Hamburg. Then, on a platform waiting for next connection, I've spotted the same red hoodie from Copenhagen, so there was a chance he was also going to Amsterdam. Which now I've decided to approach too. and he was going there indeed!
 
-He was also using [paper version](https://www.interrail.eu/en/info) of a pass. We talked it could be a nice souvenir, if not for the fact that you need to send the paper back after the trip, which he apparently didn't know before.
+He was from Spain and was also using [paper version](https://www.interrail.eu/en/info) of a pass. We talked it could be a nice souvenir, if not for the fact that you need to send the paper back after the trip, which he apparently didn't know before.
 
 At one point, it was still possible to take a different train and go to Cologne where my friend was for Gamescom (which was also a part of my [original](../day-0) itinerary). However at the same time as I wanted to go to Amsterdam specifically for Friday/Saturday, I've stayed the course.
 

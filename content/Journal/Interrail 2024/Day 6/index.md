@@ -161,7 +161,7 @@ As we were walking, we passed one place with Belgian Fries which one of them rea
 
 After that we went to the Churro's place, got Churros and even ordered Dutch mini pancakes. There, a little bit of Dutch cuisine too ;) Their 4th friend came from the hostel and joined us in the restaurant.
 
-They had a Revolut so splitting the bill was relatively easy - They just had to scan my QR code and type value to send. There was however a small hitch after we got the check: It was a bit more than I initially thought as I didn't account for nutella. All good, they were fine with sending the extra, although Revolut's limitation came to light: You can't send less than 1€ to someone. So we approached it in a way that one of them would send me remaining sum +1€, then I sent 1€ back. There, all is hopefully balanced.
+They had Revolut so splitting the bill was relatively easy - They just had to scan my QR code and type value to send. There was however a small hitch after we got the check: It was a bit more than I initially thought as I didn't account for nutella. All good, they were fine with sending the extra, although Revolut's limitation came to light: You can't send less than 1€ to someone. So we approached it in a way that one of them would send me remaining sum +1€, then I sent 1€ back. There, all is hopefully balanced.
 
 ![House of Cards||900x600](house_of_cards.jpg)
 
@@ -174,7 +174,7 @@ After a moment, we found out QR code on a table used to order things. It redirec
 
 We sat out there for a while, though the benches we were sitting on weren't exactly dry, and there was a loud party at a nearby table. We went to place where they were day earlier which was more chill, was dry and allowed better options for chatting. Despite it being a sports bar.
 
-When they've found I have mini light ring on my phone around camera *(Nothing A1)*, they've asked for a few photos
+When they've found I have mini light ring on my phone around camera *(Nothing A1)*, they've asked for me to take a few photos. And that way, I could've roleplay as a photographer once more. I've connected to the wi-fi hotspot in the bar and uploaded images to a shared folder on a cloud and sent them links.
 
 Their friend who was drawing, sketched me as well. She said she wasn't particularly fond of it, though I was still impressed by what she managed to do. ~~Of course, that also meant if anything would go sideways police wouldn't even need to get any Forensic Artist to sketch me from their descriptions.~~
 
@@ -205,7 +205,7 @@ Turned out, this bus route didn't go as near the hostel as yesterday's one so I 
 
 I've arrived at the hostel around 3:48 am. There was party evening/night happening earlier so I went to the bar area in case there was still someone. And there were still couple people left! They seemed to be chatting, and drinking lemonade. I didn't drink in a while so I could use a drink too. I asked about it and one guy showed me there's a jar with dispenser. Nice, I took a glass and joined the conversation by asking about the party. Turned out it wasn't anything special as there were some kids from some reason.
 
-After a moment one guy called it a night and only one stayed. Remaining one told me that he only recently made a passport and went to Europe to visit it by the flixbus. Our conversation turned to games for a moment as he was also a fan of MOBAs, and as Deadlock was new I asked it. We had a bit of conversation about it and when I suggested I could drop him an invite to beta he said that he had some issues with addicition and didn't want to go back to that. Fair stance, also congrats on beating bad habits ;)
+After a moment one guy called it a night and only one stayed. Remaining one told me that he only recently made a passport as he was from USA of Russian origins and went to Europe to visit it by the flixbus. Our conversation turned to games for a moment as he was also a fan of MOBAs, and as Deadlock was new I asked it. We had a bit of conversation about it and when I suggested I could drop him an invite to beta he said that he had some issues with addicition and didn't want to go back to that. Fair stance, also congrats on beating bad habits ;)
 
 We chatted almost until 5 am. I had probably around 2h of sleep ahead of me. Speaking about beating bad habits...
 
