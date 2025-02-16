@@ -6,8 +6,7 @@ weight: 100
 meta: true
 comments: false
 ---
-Hello stranger. Welcome to my little corner on the internet.
-I've been wearing many hoodies, and these are my tales.
+Hello stranger. Welcome to my little corner on the internet, to a place where you can find some of my tales.
 
 ## Who am I?
 
@@ -20,9 +19,6 @@ A few years later, I found myself with a solid background in **Back-End** develo
 But there's no rest for the wicked as in the meantime I've developed mini-games while volunteering as a moderator for gaming Discord servers, crafting puzzles and even strumming a few tunes on the guitar.
 Now we are in 2024, I've taken upon Parkour training and eventually set off to explore [Europe by Train with Interrail](/series/interrail-2024).
 
-## Sounds interesting? 
-You can find on this website my journals from travels, insights from trenches as a developer, recipes from my kitchen and couple of other things too.
-
 ## Let's Work Together
 
 Want to hire me, or commission me a work? Head over to [contact](../contact). And if you need one, here's my [Resume](https://mmesek.github.io/resume).
@@ -34,3 +30,5 @@ Like what I'm doing? You can buy me a coffee (no caffeine though, I already am n
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E67NULL)
 [![buymeacoffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+pizza&emoji=🍕&slug=mmesek&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/mmesek)
 [![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mmesek/donate)
+
+You can also send me ETH-compatible coins via Coinbase Wallet to [mmesek.cb.id](https://mmesek.cb.id/)
