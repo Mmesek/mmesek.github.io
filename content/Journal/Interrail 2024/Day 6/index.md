@@ -207,6 +207,8 @@ I've arrived at the hostel around 3:48 am. There was party evening/night happeni
 
 After a moment one guy called it a night and only one stayed. Remaining one told me that he only recently made a passport and went to Europe to visit it by the flixbus. Our conversation turned to games for a moment as he was also a fan of MOBAs, and as Deadlock was new I asked it. We had a bit of conversation about it and when I suggested I could drop him an invite to beta he said that he had some issues with addicition and didn't want to go back to that. Fair stance, also congrats on beating bad habits ;)
 
+We chatted almost until 5 am. I had probably around 2h of sleep ahead of me. Speaking about beating bad habits...
+
 >Day cost: 58.2€
 > - Entertainment: 49.45€
 > - Food: 8.75€
