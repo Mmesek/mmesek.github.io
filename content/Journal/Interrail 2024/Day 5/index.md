@@ -31,6 +31,10 @@ He was also traveling thanks to [DiscoverEU](https://youth.europa.eu/discovereu_
 
 Well, they did say that travel broadens ones horizons after all ;)
 
+I've managed to steal an hour of sleep, and then a bit of additional nap as there seemed to be a short delay, on the first train. We arrived at a transfer station at around 3:33 where we had to wait until 4:47 for the next train. The main area at the station was open so we located ourselves at the seats alongside few other travelers sleeping there. 
+
+My companion, clearly a seasoned traveller, took a short nap in the meantime. While I couldn't really manage to fall asleep in a rather uncomfortable semi recumbent position based on some uneven vertically backrest.
+
 ![Center|900x400](train_monitor.jpg)
 
 At 6 am, we were at the border waiting for connection train to Hamburg. There was initially a delay, (I still only had shorts and it was very early so temperature was also relatively chilly. Yay...) which my travel companion commented that's Deutsche Bahn for you. People near us laughed out loud. The train has been cancelled and next one would be an hour later, at 7:15 am. Which also meant we had to look for different connections after Hamburg. Despite the delay, that's a huge benefit of having a pass instead of fixed tickets - especially in a foreign land - flexibility.
@@ -38,6 +42,8 @@ At 6 am, we were at the border waiting for connection train to Hamburg. There wa
 The hatted traveller was going to Berlin as a last place before heading home to Vienna in Austria, which meant we only shared trains up until Hamburg. Then, on a platform waiting for next connection, I've spotted the same red hoodie from Copenhagen, so there was a chance he was also going to Amsterdam. Which now I've decided to approach too. and he was going there indeed!
 
 He was from Spain and was also using [paper version](https://www.interrail.eu/en/info) of a pass. We talked it could be a nice souvenir, if not for the fact that you need to send the paper back after the trip, which he apparently didn't know before.
+
+On one of our connection trains we got pastries in the cafe at the station. Although... I should probably lay off crossaint's at some point for my budget sake...
 
 At one point, it was still possible to take a different train and go to Cologne where my friend was for Gamescom (which was also a part of my [original](../day-0) itinerary). However at the same time as I wanted to go to Amsterdam specifically for Friday/Saturday, I've stayed the course.
 
@@ -72,10 +78,12 @@ I've found myself an accomodation at Via Amsterdam around 7 pm. Truth be told, I
 
 Sadly, I was a little bit overpacked and needed to repack before considering adding any more stuff so I passed on getting it. Nice souvenir but I didn't want it get destroyed like [chocolate](../day-2#chocoversum).
 
-While I was checking in, another guy came to ask about a towel. Staff said it's like 6€ or so however you don't rent it but buy it and get to keep it. It seemed relatively big and I so don't have space in backpack D:
+While I was checking in, another guy came to ask about a towel. Staff said it's like 8€ or so however you don't rent it but buy it and get to keep it. Guy asked to make sure he got it right and said he'll take two. It seemed relatively big and I so don't have space in backpack D:
 
 Room I was in appeared to be empty. Sweet.
 Rested for a while, which was mostly composed of attempting to bring myself to a usable state, charged my phone, and then set out to explore the evening city past 9 pm. 
+
+Once I was running through the forest toward the metro, a small dog jumped out of nowhere, barking. Ah... Knew I should've taken a turn earlier instead... Dog's owner tightened his grip over dog's leash and appologised.
 
 # Dinner
 
