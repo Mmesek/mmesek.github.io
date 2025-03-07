@@ -1,0 +1,5 @@
+.obsidian/
+.docs/
+go.mod
+go.sum
+resources/
