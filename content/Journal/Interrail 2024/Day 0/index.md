@@ -16,7 +16,6 @@ Windy road ahead
 Now there's a world to explore  
 With unknown tracks awaiting  
 
-![Screenshot of itinerary from Rail Planner app](itinerary.png)
 First time traveling outside my country on my own. I've been to a couple of countries before, but not by myself with nothing but a backpack yet. Should be fun, right? Let's jump right in onto a deep water!
 
 Initial version (more like a proof of concept really) of 🗺️ itinerary: 
@@ -36,6 +35,8 @@ Initial version (more like a proof of concept really) of 🗺️ itinerary:
 - {{< tag " #Marseille" >}}
 - {{< tag " #Milan" >}}
 - {{< tag " #Prague" >}}
+
+![Screenshot of itinerary from Rail Planner app](itinerary.png)
 
 Should be back in... around a month?  
 And whether this plan will hold... we'll find out, won't we?  
