@@ -217,7 +217,7 @@ There, he told me he doesn't go to hostels or hotels and instead sleeps on the s
 
 He told me he's from USA and only books flights to cities and money he saves on accomodations he spend on more flights more often.
 
-He shared his insight from his experiences too. For choosing a place to sleep, he picks quiet alleyways, sometimes some back alleys, with benches and no people. Sometimes restaurant gardens, as fences around provide cover from wind. He then took a look around, and said places like these around are a little too busy so he wouldn't sleep there. He also told me that he even slept on benches in churches at night.
+He shared his insight from his experiences too. For choosing a place to sleep, he picks quiet backstreets, sometimes some back alleys, with benches and no people. Sometimes restaurant gardens, as fences around provide cover from wind. He then took a look around, and said places like these around are a little too busy so he wouldn't sleep there. He also told me that he even slept on benches in churches at night.
 
 When it comes to sleeping, he tells me that feet are the worst so he takes of his shoes and changes socks or just let's his feet breath whenever possible, as well as socks/boots and carries a bunch for change. He then ties his backpack to his belt and goes to sleep.
 He also mentioned that he had a case once when someone actually tried to take his backpack, however since it was tied to his belt, he woke up.
