@@ -50,7 +50,11 @@ Is your valentine heartbroken too? Nothing to worry, you can mend each other's h
 2021-2023
 ## Easter Egg Hunt
 
+There's a chance an 🥚 egg reaction will appear under user's message. Anyone who clicks the reaction within few seconds will receive a point
 
-
-# Fighters
+# [Fighters](../minigames/boos-fight)
 2022-2023
+
+There's a chance a boss will appear once in a while while users are chatting. There's an interaction button to attack once per encounter for players.
+
+There's also a small chance a bonus will appear to sharpen player's weapon, increasing damage against currently active boss.

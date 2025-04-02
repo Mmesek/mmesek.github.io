@@ -61,3 +61,5 @@ We provide personalized support through direct contact with the bot's developer.
 # Pricing
 
 Our managed hosting service is available starting at €100 per year, ensuring your server runs smoothly without the hassle of self-hosting.
+
+Need something more tailored to your needs or even more sophisticated? Let's [talk](/contact)!
