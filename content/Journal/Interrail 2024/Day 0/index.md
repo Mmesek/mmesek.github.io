@@ -2,7 +2,7 @@
 title: Itinerary
 description: Itinerary of the trip
 date: 2024-08-18
-lastmod: 2024-08-18
+lastmod: 2024-10-11
 tags:
   - itinerary
 series:

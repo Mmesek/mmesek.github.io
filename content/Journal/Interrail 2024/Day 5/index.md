@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-23
+lastmod: 2025-02-12
 linktitle: Interrail
 title: Amsterdam - Day 1
 description: Tale of the fifth day with Interrail

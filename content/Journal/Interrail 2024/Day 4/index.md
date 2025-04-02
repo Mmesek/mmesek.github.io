@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-22
+lastmod: 2025-02-02
 linktitle: Interrail
 title: "Day in: Copenhagen"
 description: Tale of the fourth day with Interrail

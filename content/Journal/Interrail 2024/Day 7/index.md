@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-25
+lastmod: 2025-03-07
 linktitle: Interrail
 title: "Travel: Through Netherlands to Antwerp"
 description: Tale of the seventh day with Interrail

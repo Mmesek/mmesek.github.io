@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-19
+lastmod: 2024-10-11
 linktitle: Interrail
 title: "Travel: Lublin - Hamburg"
 description: Tale of the first day with Interrail

@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-26
+lastmod: 2025-03-22
 linktitle: Interrail
 title: Paris - Day 1
 description: Tale of the eight day with Interrail

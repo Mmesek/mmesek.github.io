@@ -1,6 +1,7 @@
 ---
 author: Mmesek
 date: 2024-08-27
+lastmod: 2025-04-02
 linktitle: Interrail
 title: Paris - Day 2
 description: Tale of the ninth day with Interrail
@@ -10,7 +11,6 @@ tags:
 prev: Journal/Interrail 2024/day-8
 next: Journal/Interrail 2024/day-10
 featured_image: arch_panorama.jpg
-lastmod: 2025-04-02
 ---
 >All alone in  
 Lover's city  
