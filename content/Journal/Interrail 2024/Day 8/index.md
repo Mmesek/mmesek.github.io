@@ -151,7 +151,7 @@ Anyway, the guy was saying that he was travelling for a while now and he was fro
 
 I went for dinner at the bar downstairs around 9 pm. Some people there were playing beer pong, while others were chatting or watching sports channel. I found an empty seat near one of the tables, and began investigating menu they had. 
 
-What's cheap, seems meaningful and fits description of a dinner? Choice went for Cali Wrap with Nachos. Nachos were part of the meal, not an extra. Not ideal, Yeah, I get it. But it was cheap. Mostly because there was like a -33% discount for people staying at the hostel. 
+What's cheap, seems meaningful and fits description of a dinner? Choice went for Cali Wrap with Nachos. Nachos were part of the meal, not an extra. Not ideal, Yeah, I get it. But it was cheap. Mostly because there was like a -25% discount for people staying at the hostel. 
 
 ![||1000x500](bar.jpg)
 
