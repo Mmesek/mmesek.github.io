@@ -31,8 +31,7 @@ W między czasie, Khajit razem z Dżinem rozpoczęli na nowo iluzoryczne szranki
 
 Niestety, nadworny psycholog nazwał to nocą i tak oto, jedyny głos rozsądku jaki pozostał się rozwiał. Niedługo później i Dżin razem ze swoim gościem którą to podwoził na dywanie, musieli udać się w drogę. A krótko po nich i muzyk zakończył swoją noc. Co oznacza że elfia straż która to miała przeszkolenie z Alchemii mogła przejść do interesów! Toteż wytworzyła odrobinę niebieskich kryształków razem z shotami na manę. W jakiś sposób nawet jedyny pozostały nieletni skosztował tegoż to trunku.
 
-Było już dobre parę godzin po dobranocce, a więc i hobbit udał się na spoczynek do pokoiku obok,  
-podczas gdy skrzat zagrał w swój pierwszy horror razem z kierowcą rajdowym. W między czasie, trzeźwi stłukli kieliszek. Błędy zostały popełnione, toteż wraz z Khajitem na czele i grupką pozostałych śmiałków ustanowiliśmy pociąg mający na celu porwanie wcześniej wymienionej dwójki szukających mocnych wrażeń.
+Było już dobre parę godzin po dobranocce, gdy skrzat zagrał w swój pierwszy horror razem z kierowcą rajdowym. Wtedy też hobbit stwierdził że to nie na jego nerwy, po czym udał się na spoczynek do pokoiku obok, a w między czasie, trzeźwi stłukli kieliszek. Błędy zostały popełnione, toteż wraz z Khajitem na czele i grupką pozostałych śmiałków ustanowiliśmy pociąg mający na celu porwanie wcześniej wymienionej dwójki szukających mocnych wrażeń.
 
 Zadanie zostało wykonane pomyślnie a gdy dotarliśmy z powrotem do stacji początkowej, rozpoczęliśmy tańczenie Belgijiki. Niestety, kierowca rajdowy miał już wystarczająco rajdów jak na jeden dzień i również udał się a mimir, znajdując lokum pod schodami. Trzy-Cztery rundy Belgijki później, zrobiliśmy krótką przerwę, śpiewając Hiszpańskie Dziewczyny, a potem zatańczyliśmy Skrzypka tak aby skwitować to tańcowaniem do rytmu Jesieni z opowieści o Chłopach.
 
