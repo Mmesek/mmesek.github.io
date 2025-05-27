@@ -5,6 +5,12 @@ canonifyurls: true
 enableRobotsTXT: true
 enableGitInof: true
 
+languages:
+  en:
+    languageCode: "en"
+  pl:
+    languageCode: "pl"
+
 theme: 
   - github.com/Mmesek/Hugo-mTheme
   - github.com/gyorb/hugo-dusk
