@@ -27,6 +27,10 @@ SectionPagesMenu: main
 pagination:
   pagerSize: 10
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 menu:
   bottom:
     - name: Posts
