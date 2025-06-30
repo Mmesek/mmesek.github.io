@@ -3,7 +3,7 @@ title: M-Page
 languageCode: en-US
 canonifyurls: true
 enableRobotsTXT: true
-enableGitInof: true
+enableGitInfo: true
 
 languages:
   en:
@@ -67,7 +67,7 @@ privacy:
     respectDoNotTrack: true
   instagram:
     simple: false
-  twitter:
+  x:
     enableDNT: true
     simple: true
   vimeo:
