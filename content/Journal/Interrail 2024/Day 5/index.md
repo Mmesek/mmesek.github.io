@@ -13,6 +13,7 @@ prev: Journal/Interrail 2024/day-4
 next: Journal/Interrail 2024/day-6
 draft: false
 featured_image: streets.jpg
+featured_image_description: Alleyways in Amsterdam
 ---
 >Fellow travellers   
 Similar destinations  
@@ -36,7 +37,7 @@ I've managed to steal an hour of sleep, and then a bit of additional nap as ther
 
 My companion, clearly a seasoned traveller, took a short nap in the meantime. While I couldn't really manage to fall asleep in a rather uncomfortable semi recumbent position based on some uneven vertically backrest.
 
-![Center|900x400](train_monitor.jpg)
+![Monitor displaying train being cancelled|Center|900x400](train_monitor.jpg)
 
 At 6 am, we were at the border waiting for connection train to Hamburg. There was initially a delay, (I still only had shorts and it was very early so temperature was also relatively chilly. Yay...) which my travel companion commented that's Deutsche Bahn for you. People near us laughed out loud. The train has been cancelled and next one would be an hour later, at 7:15 am. Which also meant we had to look for different connections after Hamburg. Despite the delay, that's a huge benefit of having a pass instead of fixed tickets - especially in a foreign land - flexibility.
 
@@ -48,11 +49,11 @@ On one of our connection trains we got pastries in the cafe at the station. Alth
 
 At one point, it was still possible to take a different train and go to Cologne where my friend was for Gamescom (which was also a part of my [original](../day-0) itinerary). However at the same time as I wanted to go to Amsterdam specifically for Friday/Saturday, I've stayed the course.
 
-![|x400](hengelo_train.jpg)
+![Barefoot Biker on a train to Hengelo|x400](hengelo_train.jpg)
 
 On our train to Hengelo, last connection before train to Amsterdam, there was... barefoot stranger with a bicycle in light pink-red outfit that looked like sleeping suit and a... teddy bear strapped to his belt?
 
-![|900x500](train_station.jpg)
+![Amsterdam's Train Station|900x500](train_station.jpg)
 
 # Arrival
 
@@ -69,7 +70,7 @@ At the GVB Office I was told to use [9292](https://9292.nl/en/) app for route pl
 > Only because hostel I ended up staying in was 7km from center made the pass worth it.
 > Even then, Hostel+Tickets+Breakfast was marginally cheaper than hostel in the center.
 
-![|x700](streets.jpg)
+![Alleyways in Amsterdam|x700](streets.jpg)
 
 # Accommodation
 
@@ -98,17 +99,17 @@ Entire dinner was either delicious, or I was delirious and more hungry than I th
 
 # Evening City
 
-![|Center|800x600](street_art.jpg)
+![Grafitti on a building|Center|800x600](street_art.jpg)
 
 After dinner, not far away there was a line to a place that seemed like a night club, bouncer at the door was telling people that entry fee was 5€, however only couples could enter - you had to go with someone, not alone. Should I try to ask some strangers? Naah, entry fee? To be fair, clubs in my city spoiled me with free entries from the list.
 
 On a walk, passed some drunk Polish guys, bidding themselves farewells with infamous amount of swearing. Didn't take that long to meet more country men it seems.
 
-![|Best|x700](moon.jpg)
+![Moon between buildings|Best|x700](moon.jpg)
 
 A surprising amount of cyclists were riding these dark streets at such a late hour. Of course, that wouldn't be an issue, if not for the fact that many of them were wearing black, and only few of them were riding regular bikes, with most using some sort of electric ones - faster, and not that much louder, lights? Good one. Unlike in previous city however, they didn't seem to have as many exclusive lanes here.
 
-![|Top|x700](alley.jpg)
+![Empty alley at night|Top|x700](alley.jpg)
 
 # Dangers of the night
 
@@ -116,7 +117,7 @@ While walking surprisingly empty alleyways, compared to bustling with life (or t
 
 Not long after, I've seen the terror that haunts these streets at night firsthand: a pack of rats rushed from one alley to another. Moment they entered the opposite one, the sound of a little girl's terrified shriek could be heard. Heartbeats later, a group of men, including one particulary large individual who was visibly shaking, emerged from that same alleyway. And to think I was considering being scared of people at night just a few moments earlier.
 
-![|Top|900x600](train_station_night.jpg)
+![River in front of train station at night|Top|900x600](train_station_night.jpg)
 
 Before heading to the hostel for the night, I've chilled at the pier opposite to the central station for a while. Artificial lights, cold breeze, few lovebirds sitting on the next and another individual at the last dock being only company. 
 

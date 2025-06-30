@@ -18,6 +18,7 @@ prev: Journal/Interrail 2024/day-6
 next: Journal/Interrail 2024/day-8
 draft: false
 featured_image: bridge.jpg
+featured_image_description: View of the miniature bridge in Rotterdam
 ---
 >No sleep  
 Train to train  
@@ -36,7 +37,7 @@ After leaving a hostel, there were some signs of night's rain, however the sky a
 
 # Breakfast at Amsterdam
 
-![||1000x500](queue.jpg)
+![Queue to the Omelegg||1000x500](queue.jpg)
 
 Once I arrived near the central station, I went to the Omelegg for breakfast. After passing pancake restaurant I was considering on the way and finding the place, I was met with half an hour long queue for a relatively expensive-ish breakfast composed of an omelette in a crossaint with few add-ons. [Told ya](../day-5) I should lay off crossaint for my budgets sake...
 
@@ -53,13 +54,13 @@ On my way I've asked some friends whether I should stay the night in Rotterdam o
 
 Everyone seemed to be voting for Rotterdam, though it seemed that it was mostly because they recognized the name more. I did also receive a list of recommendations to visit there.
 
-![|Center|1000x750](station_lights.jpg)
+![Lights at The Hague's train station|Center|1000x750](station_lights.jpg)
 
 I've also got wind from a friend that our mutual friend lives in Rotterdam. I've messaged them, and after I've arrived in the Hague, I got response. So I walked around the train station and to some sort of a park nearby while texting for like half an hour. 
 
 Sadly they weren't going to be in the city today so we wouldn't really meet, however another one lives closeby The Hague... whom I also didn't get to meet during my stay here.
 
-![||1000x650](beer_holder.jpg)
+![Running figuring holding beer||1000x650](beer_holder.jpg)
 
 I've found some sort of a flea market nearby. I suppose it might be related to the last Sunday of the month. I've walked around a bit and then suddently, rain got wind of where I am and caught up with me once more. There seems to be no escape. Every city so far on a last day weather seems to be ~~crying~~ raining... 
 
@@ -75,7 +76,7 @@ On the train, I've compared prices of hostels and train tickets between Rotterda
 
 # Rotterdam
 
-![|Top|1000x550](rotterdam_station.jpg)
+![Rotterdam's Train station|Top|1000x550](rotterdam_station.jpg)
 
 At around 14 I've set off to the Rotterdam, train took a little over half an hour. 
 After arriving I went once again hunt for food. There, I've browsed trip advisor for a while, and found Sugo Pizza nearby which caught my attention with pizza with Nutella. Strange combination, let's try it.
@@ -90,13 +91,13 @@ We chatted a bit more after I've ate my slices, and I've found out that he's ori
 
 When I was leaving, he told that it was nice to meet and even wished me good travel.
 
-![||1000x700](park.jpg)
+![Park in Rotterdam||1000x700](park.jpg)
 
 While walking towards the suggested place, Markthal, I've passed some stage with live music performers and a sort of picnic area which was located in front a church. I've walked in and found that the mass was about to start as I was there around 5 pm. Interesting timing for sure. There were even people giving printed out english translations of a sermon. 
 
 The church had quite spacious interior, though what took me by surprise was lack of typically found wooden benches. In their place, half of available space was occupied by conference style chairs. They seemed to be mostly occupied too.
 
-![||1000x700](market.jpg)
+![Markthal building||1000x700](market.jpg)
 
 As I ventured forward, some sort of square, or park next to current destination was under construction. When I was getting close, the rain started pouring. What a timing indeed. The building itself was surely big, though I have somewhat missed the tower nearby that was supposed to resemble pencil while trying to ran away from the rain (while surely taking photos). Other people closer to the building seemed to flock to the safety right way before I did, though there were some that didn't yet know what just started as they were leaving.
 
@@ -106,7 +107,7 @@ While trying to wait the rain out, I've navigated on my map to Erasmus Bridge as
 
 I was walking, I've heard Polish-speaking people once more that seemed to be living there. Right, I'm in Rotterdam, Netherlands, I shouldn't be surprised. I've walked through some sort of Alley of Country Flags near the river, and then reached a miniature of a bridge.
 
-![||1000x400](bridge.jpg)
+![Closeup at the miniature bridge||1000x400](bridge.jpg)
 
 There was even a telescope pointing straight at that miniature.
 
@@ -146,7 +147,7 @@ Or so I thought. When I've arrived in the city, my charge was barely at 30% leve
 
 After leaving building, I pulled maps on my phone and I've realized another issue, a grave mistake indeed: I had not downloaded map for this city! I must've missed this city somehow back at home. 
 
-![||1000x700](antwerp.jpg)
+![Building at night in Ant-werp||1000x700](antwerp.jpg)
 
 I've checked the hostel again and... It was no longer available.
 I found my way towards the hotel for which there seemed to be 4€ promo on the Trip Advisor, it might have been a scam but it perhaps it's worth a shot. Recepcionist confirmed it's a scam and they already had someone once who unfortunetly also *actually* paid for it. 
@@ -210,7 +211,7 @@ I must've triggered some trigger boundry because he asked me to not go forward a
 
 It was a... bit too sweet drink for my taste though. When returning drink he asked if it the drink was good. Eeh, it was okay. I've also asked for direction to the toilet and afterwards I left.
 
-![|Center|1000x600](antwerp_oldtown.jpg)
+![Old town in Ant-werp at night|Center|1000x600](antwerp_oldtown.jpg)
 
 It was around 0:45 or so. Right after leaving the bar, I saw a similiar in age to me guy with a backpack. Wait a second. Fellow backpacker? I've approached him and asked if he stays anywhere by any chance.
 
@@ -242,7 +243,7 @@ Truth be told, encounter with him kind of reassured me that perhaps tonight will
 
 I didn't feel like trying to find a peaceful bench to sleep as the night was getting colder, so I went toward the train station hoping that maybe I could last the night there.
 
-![||1000x550](night.jpg)
+![Antwerp's train station at night||1000x550](night.jpg)
 
 On my way, I've stopped to take some photos of a central station from the distance. And so did 3 other people soon after I started taking photos. With one of them, we even briefly and silently compared our takes. It was a rather sudden and unexpected interaction around 1:40 am.
 
@@ -254,7 +255,7 @@ There was an underground garage and it was bit windy, so finding a place to shel
 
 When I found an way inside, on the way, I've passed people covered in blankets sleeping - homeless. As I ventured further down, what hit me immedietaly was a smell. Oof, some people must've used this place as their toilet.
 
-![||1000x500](bike_parking.jpg)
+![Bike park||1000x500](bike_parking.jpg)
 
 There was a bicycle garage and further down, closed, car park. That's not going to cut it. I'mma take my chances elsewhere. I've headed out.
 
@@ -302,7 +303,7 @@ I went to the train station, and side entrance was indeed already open and peopl
 
 At 4:30, train was already on a platform waiting and I could already enter. Considering I could get some sleep on the train, I decided duck it, let's go to Paris.
 
-![||1000x800](night_train.jpg)
+![Table on a train||1000x800](night_train.jpg)
 
 Shortly after departure I grabbed remaining stroopwaffle out of my backpack in order to eat it. I know, not the best dinner, or food at all, especially considering my today's menu. But it was what I had left, and also something that was meant to be eaten earlier rather than later.
 

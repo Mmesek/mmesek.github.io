@@ -13,6 +13,7 @@ next: Journal/Interrail 2024/day-2
 prev: Journal/Interrail 2024/day-0
 featured_image: sunset.jpg
 featured_image_crop_anchor: Top
+featured_image_description: Sunset over Hamburg
 ---
 >Worries overflow  
 Restless sleep  

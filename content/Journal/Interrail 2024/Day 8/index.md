@@ -14,6 +14,7 @@ next: Journal/Interrail 2024/day-9
 draft: false
 featured_image: paris.jpg
 featured_image_crop_anchor: center
+featured_image_description: Building covered with Olypmics 2025 signs in Paris
 ---
 >No rest  
 >I'm awake awake awake  
@@ -50,7 +51,7 @@ I've downloaded map for the city, checked it, and indeed, Lille Europe was close
 
 Once I left the building, there were like two squads of soldiers in V formation patrolling as well. That's quite a security for a train station for sure...
 
-![||1000x600](lille.jpg)
+![Lille Flanders' train station||1000x600](lille.jpg)
 
 I've considered my breakfast options around, though none of the restaurants really caught my attention, so I directed myself towards Lille Europe station.
 
@@ -105,7 +106,7 @@ While strolling I walked through one street that from some reason seemed like a 
 
 On my way, I've encountered some of the famous Paris pixelart grafittis, as well as... homeless' matress near doors at the alove of one of the buildings?
 
-![||x700](mini_arch.jpg)
+![Mini arch in Paris||x700](mini_arch.jpg)
 
 Once I've reached the end of the street I was on, I've arrived at the mini version of Triumphal Arch under which a passel of pidgeons seemed to have a congregation where they were chilling or sun bathing. 
 
@@ -130,13 +131,13 @@ I'll admit, I was expecting something more... inside rather than on top. Other t
 
 Shortly after I was back on my way to the Notre Dame, which I've reached around 4 pm.
 
-![||1000x300](notre_dame.jpg)
+![Notre Dame under reconstruction||1000x300](notre_dame.jpg)
 
 It was under active reconstruction, after the fire few years earlier, with scaffolding all around and a couple of cranes.
 
 I've walked a bit more and crossed the river onto the other side. There's 23°C and it somehow feels like it would be 32°C. There was a pack of English speaking people, considering topics of conversation, most likely tourists, which for a brief moment I was considering joining, but then decided against it strolled further.
 
-![||1000x650](tree.jpg)
+![Just a tree||1000x650](tree.jpg)
 
 Went to a park nearby, although shade there didn't deliver much respite from the undermining sun. I walked a bit further and found myself closeby to Louvre. Mixture of temperature, lack of proper rest and possibly dehydration put me back on a way to the hostel.
 
@@ -154,7 +155,7 @@ I went for dinner at the bar downstairs around 9 pm. Some people there were play
 
 What's cheap, seems meaningful and fits description of a dinner? Choice went for Cali Wrap with Nachos. Nachos were part of the meal, not an extra. Not ideal, Yeah, I get it. But it was cheap. Mostly because there was like a -25% discount for people staying at the hostel. 
 
-![||1000x500](bar.jpg)
+![Bar in St. Christopher's Inn||1000x500](bar.jpg)
 
 After eating I chilled for a while there, researching things to do on the next day and picking photos from the day to share on the internet. 
 

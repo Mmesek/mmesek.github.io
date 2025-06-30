@@ -5,6 +5,7 @@ date: 2025-06-21
 lastmod: 2025-06-23
 featured_image: campfire.jpg
 featured_image_crop_anchor: center
+featured_image_description: Ognisko
 next: pl/Journal/Lore/campfire-june-2025
 prev: pl/Journal/Lore/party-may-2025
 ---
@@ -35,7 +36,7 @@ Gdy udaliśmy się ku drugiemu miejscu ogniskowemu, zastaliśmy pozostałych pe�
 
 Z początku, podpałka gdzieś się zapodziała, lecz niedługo później się odnalazła. A gdy pierwsze płomienie zapłonęły pośród mroku, próbowaliśmy zatańczyć podziękowalną Belgijkę lecz zmartwieni niebieskimi światłami w okolicy zadowoliśmy się tańcem w rytm Tańcuj z Jesieni. Następnie, tancerz obeznany z bliskowschodnimi sztukami zaprezentował nam tamtejszy taniec przy ogniu. Były to pełne nadziei tańce ku przetrwaniu następnych godzin.
 
-![||1000x500](party.jpg)
+!["Impreza" na nakrętce of tymbarka||1000x500](party.jpg)
 
 Niedługo po zakończeniu tańcy, Czarownice wraz z towarzyszem ze wschodu zawiązały woreczki ziół do spalenia w ogniu ku swoim intencjom i nadziejom. Wtedy też gdy pojawiły się pierwsze z nocnych niebezpieczeństw - latający gryzacze. Czarownice jednak, wrzuciły do ogniska lawendę ku ich odstraszeniu.
 
@@ -49,7 +50,7 @@ Podczas gdy padło parę oskarżeń, samosąd został odroczony na podstawie zby
 
 W trakcie jednej z wypraw po chrust, niestety skrzatka doznała obrażeń od czerwonych mrówek. Niestety, czarownice nie posiadały odpowiednich ziół przy sobie by przygotować takowy okład.
 
-![|Center|1000x500](fire.jpg)
+![Ognisko|Center|1000x500](fire.jpg)
 
 Noc trwała w najlepsze, a księżyc w trzeciej kwarcie, chylący się nowiu oświetlony niczym cieńki rogalik nie był niestety widoczny między drzewami. Jednak, niedługo później dołączyło do nas jeszcze dwóch zabłąkanych wędrowców; jeden który to idąc ciemną drogą usłyszał muzykę i ujrzał światło natomiast drugi, umęczony podróżny zmierzał ku naszym koordynatom wedle map z dalekich krain Krakowa.
 
@@ -61,7 +62,7 @@ Następnie, mordercy zagrali w rytm muzyki barda, a świadkowie, opowiadali swoj
 
 Niestety, również i Strażnik Ognia musiał nas opuścić gdy zaczęło robić się widno. Ognisko wciąż się tliło, a światło dzienne przebijało przez koronę drzew. Przetrwaliśmy noc, i odtańczyliśmy ponownie belgijkę, tym razem w rytm jesieni, w niepełnym szyku a później klasyczniej dookoła paru niedopitków siedzących przy ognisku, efektywnie tworząc wir powietrza w środku przyduszając osoby w środku.
 
-![||1000x500](morning-light.jpg)
+![Ognisko o świcie||1000x500](morning-light.jpg)
 
 Ogień wciąż się tlił, a my uraczyliśmy się prowiantem zabranym przez niektórych z nas: domowymi wypiekami ciasta marchewekowego które było to całkowicie zaplanowane na tak późną godzinę i wcale nie miało być wyciągnięte o wiele wcześniej. 
 
@@ -70,7 +71,7 @@ Niedługo później, jeden z bardziej milczących towarzyszy który był z nami 
 Podczas gdy jedna z elfek przygotowana na biwak tej nocy położyła się spać, skrzat wraz ze znawcą bliskowschodnich technik tanecznych zatańczyli makarenę i parę innych tańców z okazji wschodu słońca.
 Było już po wschodzie gdy jeden z podróżnych również postanowił zawijać, a następnie i elficcy emisariusze wyruszyli z obozowiska.
 
-![||1000x600](morning-fire.jpg)
+![Ognisko o wschodzie||1000x600](morning-fire.jpg)
 
 Pozostali natomiast, zajęli się dogaszaniem ogniska i uprzątaniem terenu ze śladów, tak jakby nikogo nie było tej nocy, poza kilkoma płatkami kwiatów spalonymi wcześniej przez wiedźmy.
 

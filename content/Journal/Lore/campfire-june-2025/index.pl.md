@@ -5,6 +5,7 @@ date: 2025-06-28
 lastmod: 2025-06-29
 featured_image: fire.jpg
 featured_image_crop_anchor: center
+featured_image_description: Ogień z ogniska
 prev: pl/Journal/Lore/kupala-night-2025
 ---
 Po kolei, co się działo?
@@ -23,7 +24,7 @@ Na miejscu, natknęliśmy się na znak oznaczający wierzchowce miejskie, porzuc
 
 Podczas wędrówki wiedźmy opowiadały swoje przygody, w tym jak to jedna z wiedźm odpowiadała na pytania medyczki słowami inkantacji, a gdy medyczka zapytała ją o swój dzień, ta odparła że słuchała strasznych opowieści z gatunku slasherów, jedynie powodując dalszą konsternację na twarzy medyczki, po czym ta jedynie zapytała czemu nie zapytała bajarza o bardziej... pozytywne historie. Opowiedziała nam również o tym, jak gdy handlowała substancjami o potencjalnie niepewnym działaniu w innym uzdrowisku umysłu, jej kamrat w niedoli, w zamian za pewną część działki, służył śpiewająco za dywersję.
 
-![](before_campfire.jpg)
+![Okolice ogniska](before_campfire.jpg)
 
 Było co prawda o wiele wcześniej co również oznaczało że mieliśmy więcej czasu na przygotowanie podpałki. Lecz zamiast tego, rozłożyliśmy obozowisko i kontynuowaliśmy nasze rozmowy. W między czasie, próbował nas podejść mało-duży latający stwór, wieczorny uciążliwiec. Parę minut później dołączył do nas również gadatliwiec.
 
@@ -39,7 +40,7 @@ Po krótkiej naradzie, czarownica postanowiła powrócić do obozowiska pilnowa�
 
 Na drodze, spotkaliśmy więcej odczepionych znaków wierzchowców miejskich, niektóre z nich nawet lepszej jakości niż tamten co znaleźliśmy nieopodal obozowiska. Mięliśmy drzewo przy którym znaleźliśmy reszty okowów, możliwe że pozostałości po scenie zbrodni, chociaż nigdzie nie znaleźliśmy żadnego trupa.
 
-![|Center|1000x700](tree.jpg)
+![Smycz przywiązana do drzewa|Center|1000x700](tree.jpg)
 
 Wracaliśmy kilka, może 3-4 razy do obozowiska zostawić co uzbieraliśmy. Za drugim razem, magiczny kamień wiedźmy rozbrzmiał, a ta rozmawiała z jednym z wędrowców którzy to mieli do nas dołączyć odrobinę później.
 
@@ -64,7 +65,7 @@ W między czasie, wiedźma wyznała że była harcerką swego czasu, podczas gdy
 
 Chwilę później ścieżka obok nas przejeżdżali zmechanizowani jeźdźcy, jeden z nich na krótko się zatrzymał w pobliżu lecz niedługo później gdy dołączyli do niego pozostali jeźdźcy ruszył dalej. W trakcie naszych opowieści dołączył do nas towarzysz który wysłał ćwierkacza, toteż jako że przyniósł wspomniane wcześniej przedmioty, udało nam się wreszcie rozpalić ogień ostro po zmroku, nieco po 22:15.
 
-![](fire.jpg)
+![Ognisko](fire.jpg)
 
 Nieco później, bo w okolicy 22:38 dotarł do nas ostatni z podróżników, i tym samym było nas razem 6 osób. mieliśmy ogień, oraz mieliśmy pełną grupę. Lecz nikomu nie było w rytm do tańczenia wokół ognia tym razem. W końcu, nie planowaliśmy nic przyzywać także nie było to problemem.
 
@@ -87,7 +88,7 @@ Nieco przed drugą zaczęliśmy zbierać nasze obozowisko jako że druga z wied�
 
 Przed dogaszeniem ogniska, wypaliliśmy pozostałości które zebraliśmy, w tym podróżnik dorzucił do ognia znak wierzchowców miejskich wywołując w wiedźmie okrzyk przerażenia. Co prawda był lepszy znak na drodze obok ale... wiedźma była energooszczędna i stwierdziła że jednak nie warto iść po tamten drugi.
 
-![](after_campfire.jpg)
+![Zgaszone ognisko](after_campfire.jpg)
 
 Po zebraniu obozowiska i dopaleniu ogniska, ruszyliśmy liniową brzegową mijając wędkarzy nocy, łowiących mistyczne stworzenia jedynie wypływające po zmroku, nocne ryby.
 

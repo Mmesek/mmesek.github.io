@@ -11,6 +11,7 @@ tags:
 prev: Journal/Interrail 2024/day-8
 next: Journal/Interrail 2024/day-10
 featured_image: arch_panorama.jpg
+featured_image_description: Panorama of the city, visible from the Paris' Arch
 ---
 >All alone in  
 Lover's city  
@@ -27,7 +28,7 @@ Since train station is on the other side of the street, I figured to go there an
 
 Having that out of the way, I set out to explore and go to Louvre. I passed by the "Team USA house" and some seriously long queue going around the corner to Omusushi restaurant. It kinda reminded me of the queue to the breakfast place on the last day in Amsterdam. Except it was waay longer. Not far further, I also passed some very French guy casually eating a baguette. Yup, I'm in Paris for sure. 
 
-![|Top|1000x500](louvre.jpg)
+![Empty Louvre|Top|1000x500](louvre.jpg)
 
 I made it to the Louvre, and everything seem great, though, there are not that many people either. But hey, I can take photos and people are not going to disturb me that much, right? 
 
@@ -90,7 +91,7 @@ Security gate seemed rather downsized compared to other places. A simple metal d
 
 There was a rather long staircase up. Inside on the lower floor of the arch, at the top of the stairs, there was a mini museum of sorts, with a few paintings, a bunch of sculptures, and mostly miniatures of the arch itself. There was also a way further up. I made it to the top at around 4 pm.
 
-![||1000x](arch_panorama.jpg)
+![City panorama from the arch||1000x](arch_panorama.jpg)
 
 The sky was crystal clear, no cloud whatsoever, save it for a few on an eastern horizon. 
 I've attempted to approach the viewpoint at the edge, however the floor was incredibly slippery. Like, seriously slippery. So I slipped and fell. No, not off the arch, no. But I did fell on my back and it reminded me of an injury from few months back. 
@@ -99,11 +100,11 @@ My phone fell a little further from me, but thanks to the cord I had, it didn't 
 
 Realistically speaking, the most painful part was ~~stain on glory~~ landing on the bottle in the bag on my back. How did I fell exactly? I suppose I attempted to like boost myself by slightly "jumping" from the floor toward the curb's viewpoint. 
 
-![|Center|1000x500](eiffel_from_arch.jpg)
+![View at the Eiffel from the arch|Center|1000x500](eiffel_from_arch.jpg)
 
 I managed to take some photos of the panorama and even the Eiffel Tower as well as the panorama of skyscrapers in the distance which put the whole city into a perspective.
 
-![||1000x400](slippery_floor.jpg)
+![Slippery Floor warning sign on the floor||1000x400](slippery_floor.jpg)
 
 On my way out, after like 10 or 15 minutes... I went to the exit and I saw something that would have saved me, had I known, had I seen it... when I was entering: which was a slippery floor warning written on the floor. There was even a freaking yellow sign next to the staircase that was saying attention, slippery floor. You know, all is cool, but was that actually on the entrance or is it only on the exit? Because the stairs are one way. So I went back to the entrance and there was indeed this sign saying attention and the yellow sign but it was like tucked on the side, behind the handrail. What about the text written on the floor? Well, it was there, but it was half scraped. I mean, there was some reminder of the slippery floor word, but it was like: "yeah, you know, I'm here, watch out. But, you know, I'm not really here either." 
 
@@ -115,7 +116,7 @@ So I went to the Eiffel Tower's vantage point next to the National Theater. Ther
 
 Next, went to the Eiffel Tower, circling back already as I've reached furthest point from the hostel. So what can the person do? More photos on the way, obviously. There was this bridge in front of the Eiffel Tower that was closed with stone blocks, blocking the way for the cars. I'm not sure if it was closed in general, or if it was just closed for the Olympics. 
 
-![](eiffel_from_below.jpg)
+![Eiffel Tower](eiffel_from_below.jpg)
 
 I attempted to try taking some photos of the Eiffle Tower there in the middle, however someone was currently in the selfie session. Had to wait a couple of minutes for the spot as their session was taking a surprisingly long while... 
 
@@ -131,7 +132,7 @@ With food, They gave me jug of water, which I drank. What I didn't expect was th
 
 After like an hour there, I went out, towards the hostel.
 
-![||1000x600](paris_street.jpg)
+![Eiffel tower in the distance||1000x600](paris_street.jpg)
 
 It was around 8 pm and I was passing by through a park of sorts. People were chilling on the grass, doing picnic, playing some sport games together or just chatting or studying. 
 As I kept on walking, one thing became apparent: I just drank two liters of water. I also haven't used toilet at the restaurant and I was roughly 6km out of the hostel. Fun stuff right?

@@ -9,6 +9,7 @@ series:
   - Interrail 2024
 next: Journal/Interrail 2024/day-1
 featured_image: itinerary.png
+featured_image_description: Itinerary from Rail Planner
 ---
 >Hello World  
 Been a while  

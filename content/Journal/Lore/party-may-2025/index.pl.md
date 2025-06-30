@@ -4,6 +4,7 @@ language: pl
 date: 2025-05-24
 lastmod: 2025-05-26
 featured_image: drinks.jpg
+featured_image_description: Kieliszki z niebieskimi trunkami
 next: pl/Journal/Lore/kupala-night-2025
 ---
 Trochę się działo podczas tej nocy: duchy próbowały skontaktować się ze światem żywych, podczas gdy demon na nikim nie zrobił wrażenia, a osoby z zamierzchłych czasów balowały pośród nas! Mimo początkowych problemów z zaklęciami zabezpieczającymi, po drobnych poprawkach ze sprzętem, udało się zażegnać problemy bezprzewodowe i rozpocząć wydarzenie.

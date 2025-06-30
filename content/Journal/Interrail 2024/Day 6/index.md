@@ -12,6 +12,7 @@ prev: Journal/Interrail 2024/day-5
 next: Journal/Interrail 2024/day-7
 draft: false
 featured_image: stroopwaffles.jpg
+featured_image_description: Stroopwaffles workshop
 ---
 >Restful night  
 Yet no rest for the wicked  
@@ -23,19 +24,19 @@ Plan for today? A breakfast at the hostel, and off to the train after 11 am. Wal
 
 Stopped at a station near the local market a little before noon. There, I took a stroll around for a while. 
 
-![|Center|900x600](river.jpg)
+![River|Center|900x600](river.jpg)
 
 However, I didn't rest well and felt incredibly sleepy. So I took a break at a bench on which I've almost fell asleep, which made me realize my error - only way to stay awake was to keep going. 
 
 # Walking tour
 
-![|Bottom|x400](walking_tour.jpg)
+![Walking tour|Bottom|x400](walking_tour.jpg)
 
 As I walked a bit more, I stumbled upon a walking tour to which I've decided to just tag along with. No one said a thing. Inflitration successful. One of the things can be crossed off, yay!
 
 After walking tour, I've wandered a bit more myself. Then I've set out to try make it for wafflemaking workshop at 2 pm.
 
-![||900x700](anonymous.jpg)
+![Anonymous with monitors||900x700](anonymous.jpg)
 
 On my way, I stopped for a moment to check what's going on the square as there was a group of people with Anonymous masks and monitors. While I was trying to make sense of what's being displayed on monitors (which was a rather daunting task due to light and their chosen screen types), I was approached by one girl with mask on an arm. 
 
@@ -84,7 +85,7 @@ Then, it was about merging both sides back together and it was possible to decor
 
 Last step was to leave it to cool so they would properly bind. Chef also recommended eating half of the first one while it was still warm, so I took a few bites and... it was ducking amazing. However as I didn't quite eat anything aside of muffin, I didn't feel like eating it right away.
 
-![||900x500](stroopwaffles_workshop.jpg)
+![Stroopwaffles||900x500](stroopwaffles_workshop.jpg)
 
 Then we repeated the exactly same process for the second dough-ball and after being done we went to eat now cooled first ones. I'll admit, fresh hot one was far better, though the cool one was still pretty good. Just not as good ;)
 
@@ -108,7 +109,7 @@ I could use also use a toilet so I went to look for one. The doors were poorly l
 
 While I was trespassing, some guy opened the door and asked if it's the male one. The doors were on my side. However, let's not abuse that. I've told him the paper was missing in our's hence why I'm here, as I was leaving, I've shown him it's the next door. 
 
-![||1100x500](quote.jpg)
+!["Here's to the nights that turned into mornings, and the friends that turned into family" at Our House||1100x500](quote.jpg)
 
 Soon after, organizators came and shown us entrance. They collected tokens that served as a tickets while we were entering.
 
@@ -179,7 +180,7 @@ When they've found I have mini light ring on my phone around camera *(Nothing A1
 
 Their friend who was drawing, sketched me as well. She said she wasn't particularly fond of it, though I was still impressed by what she managed to do. ~~Of course, that also meant if anything would go sideways police wouldn't even need to get any Forensic Artist to sketch me from their descriptions.~~
 
-![||1000x400](night.jpg)
+![City street at night||1000x400](night.jpg)
 
 2 am was closing in on us, and they had a flight at 6 or 7 am so it was a moment to call it a night. We went towards where they were staying and one of them walking surpringly fast to which she replied that it's how she normally walks.
 
@@ -192,7 +193,7 @@ Rest of them have shown me how tiny their rooms were, or rather, that their room
 
 As I thought they were waiting for their friend to finish occupying bathroom we chatted a bit more. At one point I've realized I'm actually keeping them from preparing for leaving. So I've bid them one final farewell and set out on my way. Great many thanks for letting me tag along ;)
 
-![||1000x500](night_river.jpg)
+![Calm before the storm at the pier||1000x500](night_river.jpg)
 
 # Way Back
 

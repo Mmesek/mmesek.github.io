@@ -15,6 +15,7 @@ prev: Journal/Interrail 2024/day-3
 next: Journal/Interrail 2024/day-5
 featured_image: tube.jpg
 featured_image_crop_anchor: top
+featured_image_description: The Tube in Copenhagen
 ---
 >I'm crazy but I feel amazing  
 Even when rhymes  
@@ -30,7 +31,7 @@ Very cool and cozy train wagons, just your regular police check, some moderately
 
 After arriving in Copenhagen voice communicate mentioned airport and something about leaving train which considering that I didn't get much sleep and my previous experience with rail planner app left me on an earlier station I was slightly hesitant to leave. Hour was checking out, mostly, and strangers confirmed that airport *is at the next station*. Okay, so that's the stop. I think.
 
-![|Top|800x400](train_station.jpg)
+![Cloudy sky over Copenhagen's train station|Top|800x400](train_station.jpg)
 # Food trip
 
 Okay, so I'm new, not too well rested, it's raining outside, I'm in shorts, didn't have a proper breakfast yet, only have basic knowledge regarding the country and mostly no idea what to do with myself save it for a few places I've found while doing initial research online on the train. So I go to place one can go in such situation: tourist information around a corner!
@@ -45,7 +46,7 @@ And so, that way, the hunt for relatively cheap food starts 32km long walking jo
 
 After walking to a place I've found online with relatively low prices, Madglad, I was convinced it was yet open, despite clearly open door. Ahhh... next one which I thought was serving food... Well, turns out it was a community center and they had a local event there currently, while the food was dinner on some days. Heh... Back to the train station. 
 
-![|Center|800x800](madglad_entrance.jpg)
+![Open door to Madglad|Center|800x800](madglad_entrance.jpg)
 
 As I walk around bicycle parking, I overhear two people speaking Polish. Ah, fellow countrymen, what brings you to this cold place? They were figuring out how to rent bikes to cycle over to Malmö. At first I misheard and thought they mentioned previous place I've been to that was closed, hungry much. Nevermind, bon voyage, countrymen.
 
@@ -60,36 +61,36 @@ Circled back to train station yet again, and ended up at Joe's & the Juices char
 
 With full charge went to The Tube lured by the allure of cool lights only to find out it's more of a glorified photo booth rather than a cool perspective-based light installation 🙁 
 
-![](the_tube.jpg)
+![The Tube installation](the_tube.jpg)
 
 During my stay there, rain started. No matter, Onward. Let's check out pin I've made, probably from trip advisor's food search.
 
-![|Center|800x400](market.jpg)
+![Food market at Copenhagen|Center|800x400](market.jpg)
 
 Turns out it led me to a fresh food market, more specifically, to the Grød, where I've got Chicken Congee. During my stay there, rain started yet again. And the 19 was drawing near. Tried to find out where is nearest entrance to the metro, went there, then it turned out that I should take the bus. From where? No clue, the app DOT was... Difficult to navigate to show map clearly compared to what I've used before. In any case, I've tried to go to the nearest bus stop, on my way there I've passed some homeless woman asking for a blanket for her kid and shouting that's it's the worst country to be homeless in. Well, it was raining...
 
 # Venturing further
 
-![|Top|800x500](city.jpg)
+![Copenhagen's buildings in the city|Top|800x500](city.jpg)
 
 So? 3km of walk to the Hall 21 where I've met with local parkour group. Spanish guy there (with whom we sadly didn't exchange introduction) also showed me how to do the reverse vault he was practicing and another move he knew before.
 
 I've also hanged out a little longer with the group organizer, as the building caretaker left and closed off the gate 😅 
 
-![||800x500](river.jpg)
+![River at night||800x500](river.jpg)
 
 Anyway, 4.5km back to the station! 
 On my way I've passed what looked like broken bike lock:
 
-![|Center|800x500](broken_bike_lock.jpg)
+![Broken bike's lock|Center|800x500](broken_bike_lock.jpg)
 
 And within 50meters? A sign warning about bike thieves and about using a proper lock. Gotta admit, spot-on warning.
 
-![|Center|800x500](bikethief_warning.jpg)
+![Sign warning about Bike Thieves in English|Center|800x500](bikethief_warning.jpg)
 
 Arrived at the station, bit hungry and everything seems closed except... Seven Eleven. Eh, it'll do. Freshly baked Pizza slice with pepperoni for dinner it is. The shopkeeper even asked me how many pieces and concluded agreeing that one is probably enough anyway. Cheers mate.
 
-![|Top|900x700](train_station_night.jpg)
+![Train station at night|Top|900x700](train_station_night.jpg)
 
 > Day cost: (around 47.87€)
 > - 148 PLN
