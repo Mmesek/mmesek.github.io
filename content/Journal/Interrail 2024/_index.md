@@ -11,7 +11,6 @@ tags:
 cascade:
   - _target:
       kind: page
-      lang: en
       path: /journal/interrail-2024/**
     params:
       series:
