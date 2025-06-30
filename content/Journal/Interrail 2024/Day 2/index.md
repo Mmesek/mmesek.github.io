@@ -12,6 +12,7 @@ next: Journal/Interrail 2024/day-3
 draft: false
 featured_image: lake.jpg
 featured_image_crop_anchor: Smart
+featured_image_description: Lake at Hamburg
 ---
 >Cozy coach  
 No plan  

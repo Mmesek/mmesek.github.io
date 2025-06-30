@@ -11,6 +11,7 @@ prev: Journal/Interrail 2024/day-2
 next: Journal/Interrail 2024/day-4
 draft: false
 featured_image: sunset.jpg
+featured_image_description: Sunset over cloudy Hamburg
 ---
 >Wasted in the morning  
 Cloudy day  
@@ -32,7 +33,7 @@ After taking another train... Well... Change of plans, again: According to Hoste
 
 After finding the place and letting receptionist finish her call, upon asking about the event from hostelworld... She had no clue about it, though told me to check at the bar as these events usually happen there. But it's closed currently and opens after 5pm, well... Going to check again later in that case. Great recon.
 
-![|Top|](church.jpg)
+![Saint Michael's Church|Top|](church.jpg)
 
 Fine, let's visit St. Michael's Church! It's a stationary object so what could go wrong, right? Almost, there was a service which meant it was closed! Thankfully, I've arrived couple minutes after it ended 😎 "Free" sections involves main area and a demo version of a museum in catacombs. Rest was sadly paid.
 
@@ -45,11 +46,11 @@ They pass me. Phew, Ok, good, they didn't know, phew.
 
 Afterwards, I accidentally passed through Red Lantern district, (or was in some kind of a strange main street? Hard to tell), and a police station right next to it, at least they planned were to make an HQ, I guess. Considering proximity, no wonder police were on foot.
 
-![||400x400](gargoyle.jpg "Ivy, is that you?")
+![Gargoyle at the docks||400x400](gargoyle.jpg "Ivy, is that you?")
 
 Circling back, and walking few inner streets where gust of wind was strong enough to force me to put on jacket again, went back through the harbor aaand... You guessed it! Rain started once again. From there, took train to a restaurant called Underdocks, (despite the fact that there was one at the harbor), where as a weary traveler managed to find a shelter where waitress allowed me to use their powerbank, so big thanks for that! Food was also brilliant. And I'm not saying it just because by then I was already a little *too* hungry.
 
-![|Top|900x500](panorama.jpg)
+![Hamburg's Panorama|Top|900x500](panorama.jpg)
 
 Next climbed Stadtgarten as it was nearby, to get a view of Hamburg's panorama and took a bus straight to German Customs Museum.... After 5pm, so after they closed it. Ah... Perhaps I could've tipped after all...
 
@@ -57,12 +58,12 @@ On my way to Diehalle, I've stumbled upon a pro that just moved here from LA and
 
 After a little chat, and perhaps just a tiny bit of borderline-accidental social engineering, I trained there for a while; messed up some flip attempts to sponges to reach a psychological paralysis level, and decided to move on, try some rolls and from some reason reverse rolls too, and a short flow. During which I managed to test my camera paracord etui in action. Sadly result is too... variadic? to use it reliably.
 
-![|Top|](rainbow.jpg)
+![Rainbow on the cloudy background|Top|](rainbow.jpg)
 
 While going to check event at the hostel again, there was a light rain and a rainbow shined through! 
 After reaching hostel, found out at the bar that they moved event to Friday a *long* while ago... yay...
 
-![||800x400](sunset.jpg)
+![Sunset over the city||800x400](sunset.jpg)
 
 Exhausted, mostly from taking photos and not eating rather than training (trust), I went on a hunt for dinner, which was found in Max & Consorten in a form of their Salad, which was... Alright. Yeeeaaah... I was running out of options and daylight as it was already past 9pm.
 
