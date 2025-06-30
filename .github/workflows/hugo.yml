@@ -37,6 +37,7 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: latest
+          extended: true
       - name: Install Dart Sass
         run: sudo snap install dart-sass
       - name: Checkout
