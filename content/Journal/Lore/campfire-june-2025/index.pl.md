@@ -7,6 +7,7 @@ featured_image: fire.jpg
 featured_image_crop_anchor: center
 featured_image_description: Ogień z ogniska
 prev: pl/Journal/Lore/kupala-night-2025
+next: pl/Journal/Lore/party-july-2025
 ---
 Po kolei, co się działo?
 
