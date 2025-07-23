@@ -8,6 +8,8 @@ featured_image_crop_anchor: center
 featured_image_description: Ognisko
 next: pl/Journal/Lore/campfire-june-2025
 prev: pl/Journal/Lore/party-may-2025
+images:
+    - campfire.jpg
 ---
 Co się działo tej nocy? Plany są niczym, planowanie jest wszystkim i nie inaczej było tej nocy! Łącznie, było nas 17, lecz w najliczniejszym gronie, jedynie 16. Z początku byliśmy grupą 14 osób, a dołączyło do nas 3 podróżników. Ale po kolei...
 

@@ -13,6 +13,9 @@ next: Journal/Interrail 2024/day-7
 draft: false
 featured_image: stroopwaffles.jpg
 featured_image_description: Stroopwaffles workshop
+images:
+  - stroopwaffles.jpg
+  - river.jpg
 ---
 >Restful night  
 Yet no rest for the wicked  

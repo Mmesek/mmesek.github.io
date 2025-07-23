@@ -7,6 +7,8 @@ featured_image: bread_preparation.jpg
 featured_image_description: Przygotowanie chleba
 prev: pl/Journal/Lore/campfire-june-2025
 featured_image_crop_anchor: center
+images:
+    - bread_preparation.jpg
 ---
 Hasłem do przejścia przez bramy był Świat w Płomieniach, chociaż mógł to być to również opis świata dookoła; Niestabilne rządy, zamieszki, zamknięte granice czy rozwój decentralizacji. Mimo problemów związanych z pewnego rodzaju końcem świata dookoła, dwie noce po pełni księżyca, udało nam się przetrwać noc bez zaników prądu, dzięki dobrej jakości agregatorom w piwnicy, a dotrzeć do bezpiecznej kryjówki na imprezę z okazji końca tego co znamy udało się aż 16 osobom!
 

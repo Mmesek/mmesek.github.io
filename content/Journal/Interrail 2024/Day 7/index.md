@@ -19,6 +19,10 @@ next: Journal/Interrail 2024/day-8
 draft: false
 featured_image: bridge.jpg
 featured_image_description: View of the miniature bridge in Rotterdam
+images:
+  - bridge.jpg
+  - antwerp.jpg
+  - antwerp_oldtown.jpg
 ---
 >No sleep  
 Train to train  

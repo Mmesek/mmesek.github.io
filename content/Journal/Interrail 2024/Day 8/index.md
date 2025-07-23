@@ -15,6 +15,8 @@ draft: false
 featured_image: paris.jpg
 featured_image_crop_anchor: center
 featured_image_description: Building covered with Olypmics 2025 signs in Paris
+images:
+  - paris.jpg
 ---
 >No rest  
 >I'm awake awake awake  

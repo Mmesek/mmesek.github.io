@@ -16,6 +16,16 @@ next: Journal/Interrail 2024/day-5
 featured_image: tube.jpg
 featured_image_crop_anchor: top
 featured_image_description: The Tube in Copenhagen
+images:
+  - train_station.jpg
+  - madglad_entrance.jpg
+  - market.jpg
+  - city.jpg
+  - river.jpg
+  - broken_bike_lock.jpg
+  - bikethief_warning.jpg
+  - train_station_night.jpg
+  - tube.jpg
 ---
 >I'm crazy but I feel amazing  
 Even when rhymes  

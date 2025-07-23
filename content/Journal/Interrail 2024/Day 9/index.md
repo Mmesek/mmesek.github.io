@@ -12,6 +12,8 @@ prev: Journal/Interrail 2024/day-8
 next: Journal/Interrail 2024/day-10
 featured_image: arch_panorama.jpg
 featured_image_description: Panorama of the city, visible from the Paris' Arch
+images:
+  - arch_panorama.jpg
 ---
 >All alone in  
 Lover's city  

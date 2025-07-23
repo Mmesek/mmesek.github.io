@@ -14,6 +14,13 @@ next: Journal/Interrail 2024/day-6
 draft: false
 featured_image: streets.jpg
 featured_image_description: Alleyways in Amsterdam
+images:
+  - streets.jpg
+  - street_art.jpg
+  - train_station.jpg
+  - train_station_night.jpg
+  - moon.jpg
+  - alley.jpg
 ---
 >Fellow travellers   
 Similar destinations  
