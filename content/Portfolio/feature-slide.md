@@ -38,13 +38,6 @@ Elevate your Discord server with our feature-rich bot, designed to foster a thri
 - **Seasonal Events**: Celebrate holidays with faction-based infection, gifting, and more
 - **Interactive Storytelling**: Captivate users with dynamic, narrative-driven experiences
 
-# Don't just take our word for it, take theirs!
-
-"This bot has been a game-changer for our server. The moderation tools are top-notch, and the community engagement features keep our members coming back." - AussieGG, Dying Light
-
-"The developer's responsiveness and the bot's seamless integration made the process a breeze. Highly recommended!" - Tiny, Coheed and Cambria & TinyTalk
-
-"Some more stuff lorem ipsum etc" - Jarvis Babbit, Titanfall 2 Poland
 
 # In-House Technology
 
