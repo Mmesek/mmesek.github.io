@@ -52,7 +52,7 @@ Is your valentine heartbroken too? Nothing to worry, you can mend each other's h
 
 There's a chance an 🥚 egg reaction will appear under user's message. Anyone who clicks the reaction within few seconds will receive a point
 
-# [Fighters](../minigames/boos-fight)
+# [Fighters](../minigames/boss-fight)
 2022-2023
 
 There's a chance a boss will appear once in a while while users are chatting. There's an interaction button to attack once per encounter for players.
