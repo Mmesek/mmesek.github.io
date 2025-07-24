@@ -27,7 +27,7 @@ Want to hire me, or commission me a work? Head over to [contact](../contact). An
 
 Like what I'm doing? You can buy me a coffee (no caffeine though, I already am not sleeping at night, thank you) or donate using any of these platforms. Highly appreciated.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E67NULL)
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Mmesek/donate)
+[ko-fi](https://ko-fi.com/E1E67NULL)
+[liberapay](https://liberapay.com/Mmesek/donate)
 
 You can also send me ETH-compatible coins via Coinbase Wallet to [mmesek.cb.id](https://mmesek.cb.id/)
