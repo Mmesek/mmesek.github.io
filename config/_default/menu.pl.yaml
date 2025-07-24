@@ -1,0 +1,15 @@
+main:
+  - name: Dzienniki
+    identifier: journal
+    url: /journal/
+    pageRef: /journal
+    weight: 10
+bottom:
+  - name: Posty
+    weight: -120
+    identifier: post
+    url: /pl/articles/
+  - name: Tagi
+    weight: -110
+    identifier: tag
+    url: /pl/tags/

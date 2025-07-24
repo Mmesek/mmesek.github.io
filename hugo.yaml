@@ -1,4 +1,4 @@
-baseurl: mmesek.github.io
+baseURL: mmesek.github.io
 title: M-Page
 languageCode: en-US
 canonifyurls: true
@@ -7,9 +7,14 @@ enableGitInfo: true
 
 languages:
   en:
+    languageName: English
     languageCode: "en"
+    weight: 1
   pl:
+    languageName: Polish
     languageCode: "pl"
+    weight: 2
+    contentDir: polish
 
 theme: 
   - github.com/Mmesek/Hugo-mTheme
@@ -30,23 +35,6 @@ pagination:
 caches:
   images:
     dir: :cacheDir/images
-
-menu:
-  bottom:
-    - name: Posts
-      weight: -120
-      identifier: post
-      url: /articles/
-    - name: Tags
-      weight: -110
-      identifier: tag
-      url: /tags/
-
-taxonomies:
-  category: "categories"
-  group: "groups"
-  series: "series"
-  tag: "tags"
 
 markup:
   highlight:

@@ -1,0 +1,9 @@
+bottom:
+    - name: Posts
+      weight: -120
+      identifier: post
+      url: /articles/
+    - name: Tags
+      weight: -110
+      identifier: tag
+      url: /tags/
