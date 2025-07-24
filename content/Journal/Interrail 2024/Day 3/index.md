@@ -12,6 +12,13 @@ next: Journal/Interrail 2024/day-4
 draft: false
 featured_image: sunset.jpg
 featured_image_description: Sunset over cloudy Hamburg
+images:
+  - sunset.jpg
+  - closed.jpg
+  - church.jpg
+  - gargoyle.jpg
+  - panorama.jpg
+  - rainbow.jpg
 ---
 >Wasted in the morning  
 Cloudy day  
