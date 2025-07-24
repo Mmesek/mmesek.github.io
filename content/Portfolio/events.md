@@ -18,6 +18,8 @@ Players can join one of six factions and engage in a thrilling battle for domina
 
 Vampires can only be cured by Vampire Hunters, while Werewolves can only be cured by Huntsmen. Zombies, on the other hand, can be cured by Enchanters. Monsters cannot bite the faction that hunts them, but they can bite other factions. For example, Vampires cannot bite Vampire Hunters, but they can bite Huntsmen. Hunters can also help each other by protecting others from being bitten for a short period of time. 
 
+Here's a lore [history](../minigames/Halloween-History) wrap of how it was going on, in Dying Light's server throughout the years.
+
 ## [Fear](../minigames/halloween/#fear)
 Players needs to collect candies, which they can then use to claim their initial fear once someone asks them for trick or treat. Once they have accumulated enough fear, they can summon an army of spooky creatures, such as imps, skeletons, and other fearsome beings. Players can use their army to scare other players or challenge powerful bosses. Finally, players can also sacrifice their army for Reinforced Fear, final resource that places them on a leader-board.
 
