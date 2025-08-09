@@ -17,13 +17,13 @@ draft: false
 comments: 
 featured_image: sunset.jpg
 images: 
-	- sunset.jpg
-	- expenses.png
-	- distances.png
-	- photos.png
-	- sleep.png
-	- tickets.png
-	- heatmaps.png
+  - sunset.jpg
+  - expenses.png
+  - distances.png
+  - photos.png
+  - sleep.png
+  - tickets.png
+  - heatmaps.png
 ---
 # Inspiration
 In October 2022 I had an opportunity to travel alone for the first time somewhere I haven't been to before. While technically, I wasn't by myself, experience of stepping outside what I had known into the unknown on less than a week's notice, meeting people I would have only known digitally otherwise felt inspiring enough to considering traveling alone in the future within a realm of possibility.
