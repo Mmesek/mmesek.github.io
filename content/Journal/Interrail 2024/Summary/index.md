@@ -18,10 +18,11 @@ comments:
 featured_image: sunset.jpg
 images: 
   - sunset.jpg
+  - map.png
+  - sleep.png
   - expenses.png
   - distances.png
   - photos.png
-  - sleep.png
   - tickets.png
   - heatmaps.png
 ---
