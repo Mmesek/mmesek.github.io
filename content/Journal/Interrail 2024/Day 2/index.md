@@ -13,6 +13,13 @@ draft: false
 featured_image: lake.jpg
 featured_image_crop_anchor: Smart
 featured_image_description: Lake at Hamburg
+images:
+  - lake.jpg
+  - rathaus.jpg
+  - chocoversum.jpg
+  - chocolate.jpg
+  - slide.jpg
+  - miniature_city.jpg
 ---
 >Cozy coach  
 No plan  
