@@ -5,6 +5,14 @@ lastmod: 2025-02-16
 linktitle: Interrail
 title: Amsterdam - Day 2
 description: Tale of the sixth day with Interrail
+summary: |-
+  >Restful night  
+  Yet no rest for the wicked  
+  Fellow travellers  
+  Yet no respite from the rain
+
+  Second day in Amsterdam! 
+  Plan for today? A breakfast at the hostel, and off to the train after 11 am. Walking tour, stroopwaffle workshop and a museum of House music.
 tags:
   - Amsterdam
   - Netherlands
