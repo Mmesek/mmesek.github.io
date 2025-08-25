@@ -73,7 +73,7 @@ Chwilę później ścieżka obok nas przejeżdżali zmechanizowani jeźdźcy, je
 
 ![Ognisko](fire.jpg)
 
-Nieco później, bo w okolicy 22:38 dotarł do nas ostatni z podróżników, i tym samym było nas razem 6 osób. mieliśmy ogień, oraz mieliśmy pełną grupę. Lecz nikomu nie było w rytm do tańczenia wokół ognia tym razem. W końcu, nie planowaliśmy nic przyzywać także nie było to problemem.
+Nieco później, bo w okolicy 22:38 dotarł do nas ostatni z podróżników, i tym samym było nas razem 6 osób. mieliśmy ogień, oraz mieliśmy pełną grupę. Lecz nikomu nie było w rytm do tańczenia wokół ognia tym razem. W końcu, nie planowaliśmy nic przyzywać także nie było to problemem. A gdy ogrzewałem rękę przy ogniu, jedna z wiedźm spytała czy coś może przyzywam. Cóż, nie planowaliśmy więc też tego nie robiłem.
 
 Niestety, miejsce które sobie wybraliśmy zdawało się być przeklęte, ponieważ ponownie, jeden z naszych towarzyszy utracił swoje życie, co ciekawe, jako pierwszy ponownie padł błazen. Czyżbyśmy mieli w naszych szeregach zdrajcę? W rytm muzyki barda rozpętała się debata kto mógł to być, niestety bard, nieco niewyspany po ostatniej nocce, ledwo kleił swe słowa ku rytmom swej gry. Stróż prawa, zdezorientowany kto może być nikczemnikiem, podał się do dymisji wygłosowywując samego siebie, po tym jak okazało się że błazen został zabity z zimną krwią metodą samobójcy w tył głowy podczas gdy strzelec celował po pijaku.
 

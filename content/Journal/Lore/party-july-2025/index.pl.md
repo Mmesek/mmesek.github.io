@@ -35,6 +35,8 @@ W kuchni, natomiast dwóch kucharzy rozpoznawało teren na przygotowanie się do
 
 W między czasie, deszcz nieco zelżał, a wciąż było widno. Biegacz spytał więc czy ktoś może byłby zainteresowany zagraniem w turniej starej gry z lotkami zwanym badmintonem. Zainteresowani się znaleźli, lecz gra nie doszła do skutku gdy zwiadowca doniósł o wznowionych opadach deszczu.
 
+Ktoś zapytał o szklankę by się napić, na co zażartowałem do Biegacza który to przyniósł kubeczki że jednak wolą szklanki. Chociaż i tak, to była zdecydowana mniejszość podczas gdy cała reszta korzystała z podpisanych kubeczków. 
+
 Nieco później najeźdźcy wrócili z wyprawy, wraz z zasobami i artefaktami takimi jak Nachos czy Salsa. O 20 natomiast, przybyła pani psycholog do tych którzy zmagali się z PTSD. Po chwili, wyhaczyła swoją pierwszą pacjentkę i obie udały się ku cichszej i bardziej odosobnionej strefie.
 
 W tym samym czasie natomiast, dezerter spytał o mikser, toteż razem udaliśmy się do piwnicy by zmontować robota i ubić śmietanę. Niestety, nasze doświadczenie ubijania śmietany było na poziomie ubijania masła, toteż udało nam się zrobić coś pomiędzy.
