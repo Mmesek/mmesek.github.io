@@ -3,7 +3,7 @@ title: "Wrap: Ognisko podczas Pełni Księżyca"
 date: 2025-08-09
 lastmod: 2025-08-11
 prev: pl/Journal/Lore/party-july-2025
-next: 
+next: pl/Journal/Lore/party-august-2025
 featured_image: thumbnail.jpg
 images:
   - thumbnail.jpg

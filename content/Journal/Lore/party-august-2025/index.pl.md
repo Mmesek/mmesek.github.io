@@ -4,6 +4,10 @@ language: pl
 date: 2025-08-23
 lastmod: 2025-08-26
 prev: pl/Journal/Lore/campfire-august-2025
+next: pl/Journal/Lore/campfire-summer-encore-2025
+featured_image: ramen.jpg
+images:
+  - ramen.jpg
 ---
 Zasady gry uległy zmianie. Krąg został przełamany, otarłem się o skraj śmierci a mimo wszelkim przeciwnościom granice znów zostały zatarte. 
 Wiele się nie spodziewałem, wręcz przeciwnie, powinienem był się tego właśnie spodziewać. Wszystkie znaki na niebie i na ziemi na to wskazywały. 
@@ -51,7 +55,7 @@ Drogą eliminacji Megara została spętana, chociaż jedyne czym się zajmowała
 
 Gdy tylko najemnik doszedł do siebie odciągnął jedyne pozostałe zimne zwłoki z miejsca zdarzenia. Jak wspomniałem, nie tak ta historia miała się skończyć toteż powróciłem do życia raz jeszcze.  
 
-Światło również powróciło, toteż gdy wróciłem do gości zarzuciłem jak gdyby nigdy nic się nie stało czy robimy to co mieliśmy robić przed całą tą sytuacją. Nie wiem czy byli bardziej zaskoczeni pytaniem jak gdyby nic się nie wydarzyło czy tym że wszyscy znów żyli.  
+Światło również powróciło, a gdy wróciłem do gości zarzuciłem jak gdyby nigdy nic się nie stało czy robimy to co mieliśmy robić przed całą tą sytuacją. Nie wiem czy byli bardziej zaskoczeni pytaniem jak gdyby nic się nie wydarzyło czy tym że wszyscy znów żyli.  
 
 Następnie zaczęliśmy rozmawiać, a w pewnym momencie, zabójczyni zapytała o dostępne zioła. A tak, w jeden sposób nie dało rady to postanowiła w inny... Lecz jedynie chciała sobie zaparzyć odrobinę naparu jak się okazało. Wybór padł na jedną mieszankę ziół która miała co prawda parę lat lecz była szczelnie zamknięta.  
 
