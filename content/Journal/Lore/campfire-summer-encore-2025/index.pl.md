@@ -3,6 +3,7 @@ title: "Wrap: Ognisko - Bis Wakacji"
 date: 2025-08-30
 lastmod: 2025-08-31
 prev: pl/Journal/Lore/party-august-2025
+next: pl/Journal/Lore/party-november-2025
 featured_image: thumbnail.jpg
 images:
   - thumbnail.jpg
