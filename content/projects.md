@@ -5,6 +5,35 @@ menu: main
 weight: 110
 comments: false
 ---
+Below you can find *some* of the programming projects I've worked on *(and a couple of proof of concept designs I architectured)*
+
+## Arbitrage Bot
+##### Python, AI Agents
+###### 2026
+Bot to find arbitrage opportunities between multiple currencies & exchanges.
+
+## [mUSh](https://github.com/Mmesek/mUSh)
+##### Python, demucs, WhisperX, ffmpeg, Crepe
+###### 2025
+Tool to generate [Ultrastar-compatible files](https://usdx.eu/format/) for Karaoke games & separate vocals
+- Separates Vocals for Instrumental audio versions
+- Transcribes lyrics from vocals
+- Detects voice pitch & Layers it over *letters*
+- Merges similiar pitches to create same tone syllabes
+
+## MicRTC
+##### Python, FastAPI, FastRTC, SoundDevice, WebRTC
+###### 2025
+Server exposing remote microphone connected through a website as a locally connected microphone.
+
+## Trip Summarizer
+##### Python, matplotlib, pandas, geopandas, numpy, geodatasets, gpx
+###### 2024-2025
+ETL pipeline that parses data obtained during travel like GPX files, bank statement exports or journal data to create graphs summarizing trips over time.
+- Generates animated map of an itinerary
+- Plots data on the map
+- Data-driven dynamic graph generation based on available data, desired format & yaml structures
+
 ## [Events Website](https://github.com/Mmesek/mEvents)
 ##### Python, FastHTML, Supabase, SQLAlchemy
 ###### 2025
@@ -14,6 +43,11 @@ Website to manage event registrations
 - Participation forms for organization
 - Listing events from Discord server
 - Deployed on [Render](https://mevents-vt2u.onrender.com/) & [Vercel](https://mms-events.vercel.app/)
+
+## Crypto P2P Transaction Dashboard Architecture
+##### Python, SQL, Supabase
+###### 2025
+PoC of a dashboard to manage users, store PII information securely & release/block transactions
 
 ## [Audio Transcriber](https://github.com/Mmesek/Audio-Transcriber)
 ##### Python, faster_whisper, ffmpeg, Docker
@@ -28,10 +62,20 @@ Set of scripts to load crypto exports into a database for portfolio analysis
 - E-mail & API parsers
 - Script to fetch NBP's previous day rate for tax calculations in Poland
 
+## [MiniRSS](https://github.com/Mmesek/MiniRSS)
+##### Python, Docker, Markdown, RSS Feed
+###### 2025
+Utility to expose Miniflux as an RSS feed.
+
 ## [Blog website](https://github.com/Mmesek/mmesek.github.io) and [Hugo Theme](https://github.com/Mmesek/Hugo-mTheme)
 ##### Hugo, HTML, CSS, Git LFS
 ###### 2024
 You are here.
+
+## OCR Recipe Scraper
+##### Python, EasyOCR, Ollama
+###### 2024
+ETL pipeline that parses photos taken from a cookbook, performs optical character recognition, clears data locally with an LLM model and outputs formatted YAML for data ingestion by a recipe storage.
 
 ## [ItemsAPI](https://github.com/Mmesek/ItemsAPI)
 ##### SQL
@@ -39,6 +83,10 @@ You are here.
 - Transactions based on Double Entry Accounting
 - Entirely in SQL, with Supabase for serving REST API
 
+## Bot Framework
+##### Python, Protobufs
+###### 2023
+PoC spec of a mesh network of microservices for platform-agnostic chat bots.
 
 ## Anti Raid/Spam system for Discord server
 ##### Python
