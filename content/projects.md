@@ -77,6 +77,11 @@ You are here.
 ###### 2024
 ETL pipeline that parses photos taken from a cookbook, performs optical character recognition, clears data locally with an LLM model and outputs formatted YAML for data ingestion by a recipe storage.
 
+## [Resume Generator](https://github.com/Mmesek/resume)
+##### Python, Pandoc, LaTeX, Docker, Shell, HTML, Typst, Github Actions
+###### 2024
+Automation scripts & templates to generate Resume file out of yaml & markdown files.
+
 ## [ItemsAPI](https://github.com/Mmesek/ItemsAPI)
 ##### SQL
 ###### 2021-2022
