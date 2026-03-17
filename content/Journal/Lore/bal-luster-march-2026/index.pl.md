@@ -6,6 +6,8 @@ lastmod: 2026-03-15
 featured_image: mirror.jpg
 featured_image_crop_anchor: center
 featured_image_description: Lustro
+images:
+  - mirror.jpg
 ---
 Jakiś czas temu doszły mnie wieści że Królowa urządza bal dla swoich dworzan by wyprawić księżniczkę za jednego z dwóch książęcych braci. Była to świetna okazja do poznania dworzan oraz okolicznej śmietanki towarzyskiej.
 
