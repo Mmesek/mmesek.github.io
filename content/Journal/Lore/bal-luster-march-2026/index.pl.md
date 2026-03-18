@@ -2,7 +2,7 @@
 title: "Wrap: Noc Zapomnienia"
 language: pl
 date: 2026-03-14
-lastmod: 2026-03-15
+lastmod: 2026-03-18
 featured_image: mirror.jpg
 featured_image_crop_anchor: center
 featured_image_description: Lustro
@@ -377,13 +377,13 @@ Gdy tam dotarlismy, Powiedział że jeśli skręcimy w lewo trafimy na dworzec. 
 
 Została nas trójka. Elfka uznała że nas odprowadzi, wykazując się odwagą w późniejszym samotnym powrocie przez most i mrok miasta.
 
-Zmierzając w stronę mostu, wspomniałem że jest to jeden z dziwniejszych dworców na których się znalazłem do tej pory, stacja była na samym środku torów, bez dostępu od strony ulicy, a wejście było od strony podziemnego prejścia. Z początku moi towarzysze myśleli że majaczę - tożto normalny dworzec, lecz po chwili zdali sobie sprawę o czym mówię - czyli o braku łatwego dostępu z góry.
+Zmierzając w stronę mostu, wspomniałem że jest to jeden z dziwniejszych dworców na których się znalazłem do tej pory, stacja była na samym środku torów, bez dostępu od strony ulicy, a wejście było od strony podziemnego przejścia. Z początku moi towarzysze myśleli że majaczę - tożto normalny dworzec, lecz po chwili zdali sobie sprawę o czym mówię - czyli o braku łatwego dostępu z poziomu ulicy.
 
 Idąc mostem, zatrzymaliśmy się by podziwiać - elfka opisując tą rzeźbę użyła tutaj sformułowania zbliżonego do dziwnego zmiennonosego drewniaka zdaje się - figurkę na moście. 
 
 Błędny Ognik mapy wskazywał nam drogę przez las jako bezpieczną i krótszą, toteż nią się udaliśmy. Uniknęliśmy przejścia przez mylne portale i znaleźliśmy się z powrotem przy ulicy, a konkretniej parkingu karoc przed samym dworcem parowozów.
 
-Tuż przed wejściem do przejścia, elfka nam opowiedziała o Gorgonie z którą miała okazję zatańczyć. Konkretnie o jej ruszających się oczach. A Konkretniej o jednym oku będącym poziomo a drugim pionowo. To by wyjaśniało dlaczego ta kiedyś zamieniała ludzi w kamień.
+Tuż przed wejściem do przejścia, elfka nam opowiedziała o Gorgonie z którą miała okazję zatańczyć. Wspomniała o jej ruszających się oczach. W szczególności o jednym oku będącym poziomo a drugim pionowo. To by wyjaśniało dlaczego ta niegdyś zamieniała ludzi w kamień.
 
 Chciałem odnaleźć sprzedawcę biletów, lecz nie było mi to dane, ponieważ moi towarzysze wskazali mi na automaton który zajmował się tym zadaniem. A więc musiałem paktować z maszynami.
 
