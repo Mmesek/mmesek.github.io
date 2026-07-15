@@ -16,7 +16,7 @@ images:
 ---
 Rok temu świat stanął w płomieniach. Teraz więc czas nadszedł na Miraże z Popiołów. Co okazało się być prawdą a co jedynie iluzją? Przekonaliśmy się zbierając tej nocy w 15 osób!
 
-Była to niezwykle spokojna noc, może nie licząc zaników światła - echa sprzed roku - czy presji wywołanej potencjalnie niechcianymi goścmi albo paroma osobami forsującymi swoje zdanie. Nawet potwory które powołaliśmy do życia, i których nie udało nam się zamienić w popiół nie sprawiły tylu problemów. Co więc się wydarzyło?
+Była to niezwykle spokojna noc, może nie licząc zaników światła - echa sprzed roku - czy presji wywołanej potencjalnie niechcianymi gośćmi albo paroma osobami forsującymi swoje zdanie. Nawet potwory które powołaliśmy do życia, i których nie udało nam się zamienić w popiół nie sprawiły tylu problemów. Co więc się wydarzyło?
 
 Rozpoczęliśmy dosyć skromnie, pierwszy przybysz zjawił się 8 minut po 18. Korzystając ze sposobności, zapytał mnie o plany Podróżnika - wieść że wybiera się tym razem na północ zdążyła już obiec okolice.
 
@@ -31,16 +31,15 @@ Zapytała: "A rozważałeś napicie się melatoniny?"
 
 "PRZECIEŻ TEN CYKL W OGÓLE NIE JEST STABILNY"
 
-"No właśnie! Jest stabilnie nie stabilny, jak sinusoida! A nie skacze góra dół 
-non stop!" - odparłem.
+"No właśnie! Jest stabilnie nie stabilny, jak sinusoida! A nie skacze góra dół non stop!" - odparłem.
 
-Niedługo później zjawiła się podróżniczka z sąsiedniego królestwa, którą to poznałem niedawno gdy dorabiała jako Inkwizytorka podczas ostatniego Festiwalu Magii w trakcie śledztwa podczas powtórnego zaginięcia tamtejszego alchemika. Pół godziny później pojawiła się Szeryfka. Po niej zjawily się jeszcze dwie osoby, a my dalej siedząc w komnatach kuchennych kontynuowaliśmy nasze debaty które lekko zahaczyły o tematy psychoaktywne jak na miraże przystało, po czym obróciły się w proch niczym popiół i skończyły na sekt... sekcjach, sekcjach zwłok.
+Niedługo później zjawiła się podróżniczka z sąsiedniego królestwa, którą to poznałem niedawno gdy dorabiała jako Inkwizytorka podczas ostatniego Festiwalu Magii w trakcie śledztwa podczas powtórnego zaginięcia tamtejszego alchemika. Pół godziny później pojawiła się Szeryfka. Po niej zjawiły się jeszcze dwie osoby, a my dalej siedząc w komnatach kuchennych kontynuowaliśmy nasze debaty które lekko zahaczyły o tematy psychoaktywne jak na miraże przystało, po czym obróciły się w proch niczym popiół i skończyły na sekt... sekcjach, sekcjach zwłok.
 
 # Kapelusz Komnaty
 
-Gdy tylko temat umarł, postanowiliśmy usiąść w głównej komnacie gdzie na chwilę jeden z bardziej doświadczonych gości w temacie uraczył nas prelekcją o różnicach w rodzajach nielegalnych substacji. Następnie wyciągając pytania niczym z kapelusza, odpowiedzieliśmy sobie na kilka pytań by przełamać lodowatą atmosferę gdy od rozmów o trupach zaczęliśmy widzieć obłoki pary. I to w środku lata nie będąc w odwróconej mitycznej krainie z wielkimi potworami snującymi nici niczym sny po drugiej stronie globu, ani pod wpływem substancji.
+Gdy tylko temat umarł, postanowiliśmy usiąść w głównej komnacie gdzie na chwilę jeden z bardziej doświadczonych gości w temacie uraczył nas prelekcją o różnicach w rodzajach nielegalnych substancji. Następnie wyciągając pytania niczym z kapelusza, odpowiedzieliśmy sobie na kilka pytań by przełamać lodowatą atmosferę gdy od rozmów o trupach zaczęliśmy widzieć obłoki pary. I to w środku lata nie będąc w odwróconej mitycznej krainie z wielkimi potworami snującymi nici niczym sny po drugiej stronie globu, ani pod wpływem substancji.
 
-W trakcie pytań, Szeryfka powiedziała o chemii jako jednym z przedmiotów na uniwersytecie, natchymiast się ożywiłem gdy usłyszałem "Alchemia". Mocno mnie to zdziwiło - wydawało mi się że obecnych czasach był to przedmiot zakazany. Gdy tylko dowiedziała się co usłyszałem, odpowiedzała ze na zaliczenie musieli kamień filozoficzny ogarniać więc właściwie to mogła i być Alchemia.
+W trakcie pytań, Szeryfka powiedziała o chemii jako jednym z przedmiotów na uniwersytecie, natchymiast się ożywiłem gdy usłyszałem "Alchemia". Mocno mnie to zdziwiło - wydawało mi się że obecnych czasach był to przedmiot zakazany. Gdy tylko dowiedziała się co usłyszałem, odpowiedziała ze na zaliczenie musieli kamień filozoficzny ogarniać więc właściwie to mogła i być Alchemia.
 
 Następnie, spragniona, zapytała: "Co to za lekko zaczerwieniony sok w dzbanku?"
 "Krew Elfa" - odparłem, po czym ciszej do reszty dodałem - "tylko nie mówcie że wcale tak nie wygląda krew elfa bo się zorientuje."
@@ -53,7 +52,7 @@ W między czasie, musiałem również rozwiązać kwestię z pewnym potencjalnym
 
 # Świece Przeszłości
 
-Około 21:34 echa przeszłości nadeszły - Dookoła nas zapadł zmrok. Szeryfka zapytała czy to jest ten moment gdy ktoś umiera, lecz coś było nie tak. Coś było mocno nie tak. Kręgi ochronne nie były naruszone, lecz zmiana w otoczeniu była wyczuwalna. Ktoś powiedział ze światło zgasło również i na ulicy. 
+Około 21:34 echa przeszłości nadeszły - Dookoła nas zapadł zmrok. Szeryfka zapytała czy to jest ten moment gdy ktoś umiera, lecz coś było nie tak. Coś było mocno nie tak. Kręgi ochronne nie były naruszone, lecz zmiana w otoczeniu była wyczuwalna. Ktoś powiedział ze światło zgasło również i na ulicy.
 
 Na stole stał kandelabr który rozpaliliśmy korzystając z podręcznego ognia podróżniczki, a dodatkowo rozpaliliśmy świecie znajdujące się w pustych butelkach.
 
@@ -63,17 +62,17 @@ Było coś urokliwie pięknego w takim obrocie spraw, a dusza romantyka aż poku
 
 Klimat skłonił gości do głębszych rozmów o charakterze samym w sobie. Gdy Szerfyka skończyła opowiadać swoją historię, postanowiłem zabrać głos by odpowiedzieć na pytanie o sytuacjach które diametralnie wywróciły życie które wiodłem.
 
-Było to nieco ponad dwa i pół lata wczesniej, gdy poznałem Skrzydłowego. Wtedy jeszcze tego nie wiedziałem, lecz to wydarzenie rozpoczęło efekt domina który doprowadził do tego miejsca i spotkania teraz w obecnym gronie. Wtedy też moje poprzednie życie się skończyło, a dziewięć miesięcy później Podróżnik wyjechał w daleką podróż poszukując siebie.
+Było to nieco ponad dwa i pół lata wcześniej, gdy poznałem Skrzydłowego. Wtedy jeszcze tego nie wiedziałem, lecz to wydarzenie rozpoczęło efekt domina który doprowadził do tego miejsca i spotkania teraz w obecnym gronie. Wtedy też moje poprzednie życie się skończyło, a dziewięć miesięcy później Podróżnik wyjechał w daleką podróż poszukując siebie.
 
-*(A może po prostu ten nieśmiertelny zaczął być znudzony poprzednim życiem, postanowił więc wywrócić je o 180 stopni wyruszajac w drogę do odległych krain, by po powrocie, jak na megalomaniaka przystało wyprawiając hedonistyczne biesiady doprowadzić do postawienia świata w płomieniach rok wcześniej?)*
+*(A może po prostu ten nieśmiertelny zaczął być znudzony poprzednim życiem, postanowił więc wywrócić je o 180 stopni wyruszając w drogę do odległych krain, by po powrocie, jak na megalomaniaka przystało wyprawiając hedonistyczne biesiady doprowadzić do postawienia świata w płomieniach rok wcześniej?)*
 
-Być może nicie Przeznaczenia zostałyby uplecione inaczej, i do tego spotkania i tak by doszło, być może było to zaplanowane, a być może nie? Kim jesteśmy, by jasno określić czy jesteśmy czymkowliek ponad pionkami na szachownicy czasu?
+Być może nici Przeznaczenia zostałyby uplecione inaczej, i do tego spotkania i tak by doszło, być może było to zaplanowane, a być może nie? Kim jesteśmy, by jasno określić czy jesteśmy czymkolwiek ponad pionkami na szachownicy czasu?
 
-9 miesięcy oddalenia między tymi wydarzeniami zaiskrzyło pewne komentarze od słuchaczy. Wspomniałem również że jedno wydarzenie zachowam dla siebie. Prawdę mówiąc, przemilczałem to które wydarzyło się mięj więcej pomiędzy oboma owymi wydarzeniami. Skrzydłowy mógł ustawić scenę, lecz to dopiero następne wydarzenia sprawiły że reakcje łańcuchowe zostały wprawione w ruch.
+9 miesięcy oddalenia między tymi wydarzeniami zaiskrzyło pewne komentarze od słuchaczy. Wspomniałem również że jedno wydarzenie zachowam dla siebie. Prawdę mówiąc, przemilczałem to które wydarzyło się mniej więcej pomiędzy oboma owymi wydarzeniami. Skrzydłowy mógł ustawić scenę, lecz to dopiero następne wydarzenia sprawiły że reakcje łańcuchowe zostały wprawione w ruch.
 
 Gdy Szeryfka usłyszała o podróży, myśląc że nawiązuję do tej podróży w której miała wziąć udział rok wcześniej wspomniała ze mogła być odpowiedzialna za tą samotną wyprawę, więc też trzeba było temat wyjaśnić.
 
-Nagle światło powróciło, lecz postanowiliśmy dla klimatu pozostać przy świecach. Chwilę później zjawiła się następna trójka gości którzy gdy dowiedzieli się o naszej sytuacji sprzed chwili, wspomnieli że w trakcie swojej drogi również doświadczyli czegoś podobnego. A więc było o wiele gorzej niż się spodziewałem. Nie zapytałem jednak czy w trakcie swej podróży nie napotkali przypadkiem dorożki bez jeźdzca...
+Nagle światło powróciło, lecz postanowiliśmy dla klimatu pozostać przy świecach. Chwilę później zjawiła się następna trójka gości którzy gdy dowiedzieli się o naszej sytuacji sprzed chwili, wspomnieli że w trakcie swojej drogi również doświadczyli czegoś podobnego. A więc było o wiele gorzej niż się spodziewałem. Nie zapytałem jednak czy w trakcie swej podróży nie napotkali przypadkiem dorożki bez jeźdźca...
 
 Po zaprowadzeniu ich do reszty, znowu pojawił się temat sekty... udałem się więc do komnat na górze po odpowiednie rekwizyty - płaszcz i maskę. A gdy pojawiłem się ponownie... Wcale nie jesteśmy sektą™. Gdy jednak podniosłem ceremonialnie kandelabr, wosk skapał na jeden z moich rękawów. Ah, tak się kończy zabawa z ogniem i drobne teatralne zapędy...
 
@@ -85,15 +84,15 @@ Kontynuowaliśmy więc rozmowę o osobowościach, i ilu jest Dyskutantów w gron
 
 Po chwili rozmowy pojawiło się następne pytanie odnośnie powtarzalnych schematów w życiu. Szeryfka opowiadała o swoich znajomościach i tym jak reputacja którą sobie zaskarbiła u ludzi nie była zbyt pozytywna. Ponownie zabrałem głos, jako że był to temat o którym osobiście sam miałem przemyślenia już wcześniej.
 
-Bard wsłuchany w opowieści, zapętlił się w swojej przygrywce na co jeden z gości zareagował: "Bardzie, weź że dorzuć trzeci akord!", na co ten w odpowiedzi niczym zbudzony z nagłego snu zariffował.
+Bard wsłuchany w opowieści, zapętlił się w swojej przygrywce na co jeden z gości zareagował: "Bardzie, weźże dorzuć trzeci akord!", na co ten w odpowiedzi niczym zbudzony z nagłego snu zariffował.
 
 Wspomniałem więc że ostatnio mam trzy miesięczny cykl znajomości, po którym relacje się rozpadały a mój styl życia ulegał zmianie. jedna osoba ze Starszyzny coś o tym wiedziała i sympatyzowała z tym, natomiast druga wspomniała że do utrzymania relacji wymagane są trzy pilary: Czas, Miejsce oraz Zainteresowania.
 
-Cóż mogłem rzec, z listy wszystko było odhaczone - niektórzy jednak uznają interakcje ze mną za zbyt intenstywne. Podróżniczka natomiast wspomniała iż relacja rzadsza tak naprawdę nie jest dłuższa a jedynie rozciągnięta *(niedosłowny cytat, poprawienie mile widziane; przyp. red.)*
+Cóż mogłem rzec, z listy wszystko było odhaczone - niektórzy jednak uznają interakcje ze mną za zbyt intensywne. Podróżniczka natomiast wspomniała iż relacja rzadsza tak naprawdę nie jest dłuższa a jedynie rozciągnięta *(niedosłowny cytat, poprawienie mile widziane; przyp. red.)*
 
-W każdym razie, właśnie te relacje upadały w kadencji sezonowej - ze wszystkimi trzema pilarami. Gadatliwiec zapytał czy przypadkiem nie staram się mieć jak najwięcej relacji swoimi poczynaniami i aktywnościami, na co odpowiedziałem że właściwie to nie bo nie ze wszystkimi których poznaję utrzymuję kontakt, a dobieram swoich towarzyszy.
+W każdym razie, właśnie te relacje upadały w kadencji sezonowej - ze wszystkimi trzema filarami. Gadatliwiec zapytał czy przypadkiem nie staram się mieć jak najwięcej relacji swoimi poczynaniami i aktywnościami, na co odpowiedziałem że właściwie to nie bo nie ze wszystkimi których poznaję utrzymuję kontakt, a dobieram swoich towarzyszy.
 
-Świece się jeszcze paliły, niektórzy zastanawiali się co dalej, zaproponowałem że gdy dopalą się świece, moglibysmy urządzić mini warsztaty wytapiania czekolady - w kuchni miałem takowy blok do przetopienia. Chociaż nie spotkało się to ze zbyt wielkim odzewem, więc nie kontynuowałem tematu.
+Świece się jeszcze paliły, niektórzy zastanawiali się co dalej, zaproponowałem że gdy dopalą się świece, moglibyśmy urządzić mini warsztaty wytapiania czekolady - w kuchni miałem takowy blok do przetopienia. Chociaż nie spotkało się to ze zbyt wielkim odzewem, więc nie kontynuowałem tematu.
 
 Na stole były pianki, a my mieliśmy płomień w świeczkach - postanowiłem więc spróbować. Znalazłem patyczki którymi nabiłem piankę, po czym spróbowałem opiec jedną nad świeczką. Niestety, od kontaktu z ogniem natychmiast stała się czarna, a jeden z gości który stał obok natychmiast powiedział aby tego nie jeść. Do zanotowania: nie dotykać pianką ognia.
 
@@ -109,15 +108,15 @@ Powracając do gości, spotkałem Gadatliwca przy bufecie, gdzie zamieniliśmy s
 
 Na chwilę udałem się do komnaty orzeźwień, a w drodze powrotnej spotkałem Szkicowniczkę która szukała swojego odzienia wierzchniego. Wspomniała że chciała zaprezentować pochłanianie światła. Zaprowadziłem ją więc do wieszaka gdzie je zostawiła, a następnie zaciekawiony tym artefaktem podążyłem na zewnątrz.
 
-Tam, gdy się odziała i oddaliła w mrok, zniknęła - niczym gdyby miała na sobie kamuflaż optyczny. Poprosiliśmy więc by na chwilę go zdjęła, po czym nagle zmateralizowała się po drugiej stronie ogrodu, znowu widoczna.
+Tam, gdy się odziała i oddaliła w mrok, zniknęła - niczym gdyby miała na sobie kamuflaż optyczny. Poprosiliśmy więc by na chwilę go zdjęła, po czym nagle zmaterializowała się po drugiej stronie ogrodu, znowu widoczna.
 
-Wraz z jednym z gości którzy niedługo się planowali zbierać udałem się do środka by porozmawiać. Niedawno, w drodze na Festiwal Magii, napotkałem kogoś kto znał mojego rozmówcę, nie miałem okazji jednak zapytać tamtej osoby, toteż korzystając z okazji teraz postanowiłem zaspokoić ciekawość i zapytałem skąd się znają. Okazało się że z pewnej Karczmy (która miała swe problemy), gdzie oboje dowiedzili się że mieszkają w tym samym mieście, lecz finalnie nie było im po drodze. Brzmi prawie jak moja historia z pewnym Najemnym Strażnikiem sprzed lat.
+Wraz z jednym z gości którzy niedługo się planowali zbierać udałem się do środka by porozmawiać. Niedawno, w drodze na Festiwal Magii, napotkałem kogoś kto znał mojego rozmówcę, nie miałem okazji jednak zapytać tamtej osoby, toteż korzystając z okazji teraz postanowiłem zaspokoić ciekawość i zapytałem skąd się znają. Okazało się że z pewnej Karczmy (która miała swe problemy), gdzie oboje dowiedzieli się że mieszkają w tym samym mieście, lecz finalnie nie było im po drodze. Brzmi prawie jak moja historia z pewnym Najemnym Strażnikiem sprzed lat.
 
 Rozmawialiśmy również o metodach informowania o wydarzeniach. Wysyłanie kruków po wszystkich bywa uciążliwe, a gołębie, tanie co prawda, są uznawane za niechcianą pocztę której nikt nie sprawdza. Padła jednak propozycja by po potwierdzeniu obecności w liście zwrotnym znajdowała się forma skrzekacza kalendarzowego. Jest to pewnego rodzaju rozwiązanie, chociaż mam wątpliwości nad rzeczywistym użyciem takiego skrzekacza przez osoby które potwierdziły obecność...
 
-Zbliżała się północ, więc i dwójka gości się zbierała. Gdy odprowadziłem ich do bram, ponownie natknąłem się po drodze na Szkicowniczkę, która tym razem szukała swojego szkicownika. A gdy go znalazła, powiedziała ze planuje stworzyć potwora rysując część, zawijająć i przekazując dalej.
+Zbliżała się północ, więc i dwójka gości się zbierała. Gdy odprowadziłem ich do bram, ponownie natknąłem się po drodze na Szkicowniczkę, która tym razem szukała swojego szkicownika. A gdy go znalazła, powiedziała ze planuje stworzyć potwora rysując część, zawijając i przekazując dalej.
 
-Spotkałem się z czymś podobnym już wczesniej - Odpowiadało się na pytanie, zawijało, przekazywało i następna osoba odpowiadała na następne pytanie. Goście których odprowadzałem powiedzili że mam już w takim razie na następne wydarzenie potencjalną listę aktywności.
+Spotkałem się z czymś podobnym już wcześniej - Odpowiadało się na pytanie, zawijało, przekazywało i następna osoba odpowiadała na następne pytanie. Goście których odprowadzałem powiedzieli że mam już w takim razie na następne wydarzenie potencjalną listę aktywności.
 
 Gdy opuścili posiadłość, Szkicowniczka chciała bym narysował pierwszą część. Prawdę mówiąc, planowałem zacząć od oczu - proste kształty, w ostateczności jedynie nabawię kogoś o koszmary, lecz okazało się ze zacząłem od samej góry, a co za tym idzie - Oczy były na szczycie. Niekoniecznie zamierzony efekt.
 
@@ -138,21 +137,21 @@ Padły głosy na pijackie zabawy z butelkami, lecz nim do tego doszło raz jeszc
 
 Niemniej jednak, ktoś się przejął, pomijając narzekania w tle na światło, więc też nie zwlekając powróciłem, rzuciłem tylko że byłem martwy po czym należało odegnać miraże i znaleźć kto mógł być za to odpowiedzialny.
 
-Lecz miraże które wśród nas się zebrały... Świnka Morska, Szczur, Handlarz, Chodowca i Łowca świnek morskich... Takiej fazy przy przechodzeniu przez wrota śmierci to jeszcze nie miałem...
+Lecz miraże które wśród nas się zebrały... Świnka Morska, Szczur, Handlarz, Hodowca i Łowca świnek morskich... Takiej fazy przy przechodzeniu przez wrota śmierci to jeszcze nie miałem...
 
-Jak się okazało, Łowca Świnek Morskich, próbował zabić Chodowczynię Świnek Morskich zakochaną w śwince morskiej, prawdopodobnie by zażegnać problem zwiększającej się populacji tychże stworzeń. Jednak, ktoś dolał mu coś do drinka, więc ten chybiając strzelił do Świnki Morskiej która jak się okazało, celowała w Szczura który był jedynie Błaznem grupy. Jednak, szczur był chroniony przez... Handlarza Świnek Morskich.
+Jak się okazało, Łowca Świnek Morskich, próbował zabić Hodowczynię Świnek Morskich zakochaną w śwince morskiej, prawdopodobnie by zażegnać problem zwiększającej się populacji tychże stworzeń. Jednak, ktoś dolał mu coś do drinka, więc ten chybiając strzelił do Świnki Morskiej która jak się okazało, celowała w Szczura który był jedynie Błaznem grupy. Jednak, szczur był chroniony przez... Handlarza Świnek Morskich.
 
-Głosy były za pozbyciem się szczura, lub łowcy który również sprawiał wrażenie podejrzanego. Finalnie, to własnie łowca został skazany - miraże się rozpadły, a światło powróciło. Brrr.... to była doprawdy przedziwna faza...
+Głosy były za pozbyciem się szczura, lub łowcy który również sprawiał wrażenie podejrzanego. Finalnie, to właśnie łowca został skazany - miraże się rozpadły, a światło powróciło. Brrr.... to była doprawdy przedziwna faza...
 
 Szkicowniczka do mnie podeszła z wnioskiem aby jako że jest Popiół w nazwie, to by spalić narysowane potwory w Ogniu i uniknąć podobnych sytuacji ponownie. Było to sensowne, chociaż wydawało mi się że wyciąganie ludzi teraz na zewnątrz by je spalić może być brutalnie nie przyjęte. Myślałem nad tym aby zrobić to później
 
-# Oddetchnięcie Szaleństwa
+# Odetchnięcie Szaleństwa
 
 Postanowiliśmy dołączyć do reszty w komnatach na górze, tam też zapytałem czy byłyby chętne osoby na rozstawienie Iluzorycznych Szranek, lecz niestety, publiczność wydawała się martwiejsza niż żywsza. Chyba nie tylko ja zaliczyłem niedawno zgon...
 
 Uwagę podróżniczki przykuła moja biblioteczka gdzie siedząc obok kilku pudełek wyczuła pewien delikatny zapach. Trochę mnie to zbiło z tropu, te rzeczy były tam już parę lat - od czasów gdy światło umarło po raz drugi; relikty z mojego poprzedniego życia gdy odwiedzałem siedzibę organizacji Technologicznej Ziemii - i nie spodziewałem się że dalej będą wyczuwalne.
 
-Otworzyłem więc owe pudełka i zapytałem czy być może to jest to co czuje. Zdziwiła się że są w stanie nieruszonym przez tyle lat, jedynie odparłem wtedy że nie miałem okazji by ich użyć.
+Otworzyłem więc owe pudełka i zapytałem czy być może to jest to co czuje. Zdziwiła się że są w stanie nienaruszonym przez tyle lat, jedynie odparłem wtedy że nie miałem okazji by ich użyć.
 
 Zacząłem odnosić wrażenie ze jak nie dostarczę jednak butelki pewnej osobie to mogę skończyć zadźgany, więc też zgarnąłem jedną którą miałem pod ręką.
 
@@ -162,24 +161,24 @@ Ludzie ułożyli się mniej więcej w koło, chociaż było trochę bardziej ksz
 
 Przebieg tejże butelki szedł doprawdy mozolnie, Bard zaczął się więc bawić kostką, Podróżniczka natomiast go zaczepiać. Zaczął to kontrować i również ją... zaczepiać? Odczepiać? Szkicowniczka skomentowała ich poczynania jako flirtowanie.
 
-Butelka wykręciła na Barda, pytanie było krótkie, tak samo jak odpowiedź, po czym zamiast zakręcić butelką, wciąż na zmianę tykając się z podróżniczką, rzucił kostką w ramach dywersji na drugą stronę kręgu  - wypadła dziewiątka. Przeliczył osoby kto jest dziewiątą osobą, po czym rzucił ponownie. Była to większa liczba niż osób w kręgu, więc liczenie było podwójne. Wywinął się w ten sposób od zadawania pytania - druga wylosowana osoba zadała pytanie pierwszej wylosowanej osobie, podczas gdy on mógł wrócić do zażartego pojedynku który własnie toczył.
+Butelka wykręciła na Barda, pytanie było krótkie, tak samo jak odpowiedź, po czym zamiast kręcić butelką, wciąż na zmianę tykając się z podróżniczką, rzucił kostką w ramach dywersji na drugą stronę kręgu - wypadła dziewiątka. Przeliczył osoby kto jest dziewiątą osobą, po czym rzucił ponownie. Była to większa liczba niż osób w kręgu, więc liczenie było podwójne. Wywinął się w ten sposób od zadawania pytania - druga wylosowana osoba zadała pytanie pierwszej wylosowanej osobie, podczas gdy on mógł wrócić do zażartego pojedynku który właśnie toczył.
 
-Szeryfka stwierdziła ze ta kostka była sprawniejsza w butelce niż sama butelka, więc odstawili niezbalansowaną butelkę i zagrali kilka rund kostką. 
-Jednakże, energia kręgu była niska, przynajmniej cztery osoby zezgonowały do snu. 
+Szeryfka stwierdziła ze ta kostka była sprawniejsza w butelce niż sama butelka, więc odstawili niezbalansowaną butelkę i zagrali kilka rund kostką.
+Jednakże, energia kręgu była niska, przynajmniej cztery osoby zezgonowały do snu.
 
-Zostałem zapytany czy mam biesiadne pudełko gier J. Właściwie to nie miałem, ale można było temu zaradzić. Przestawiliśmy inkantacje do Karaoke na tryb Arkadowy, a następnie spróbowaliśmy ustawić pudełko. Okazało się jednak że osobiście nie miałem odpowiedniej inktantacji w swoich księgach Pary. Mój towarzysz jednak takie miał - trzeba było jednak zawiązać pakt krwi. 
+Zostałem zapytany czy mam biesiadne pudełko gier J. Właściwie to nie miałem, ale można było temu zaradzić. Przestawiliśmy inkantacje do Karaoke na tryb Arkadowy, a następnie spróbowaliśmy ustawić pudełko. Okazało się jednak że osobiście nie miałem odpowiedniej inkantacji w swoich księgach Pary. Mój towarzysz jednak takie miał - trzeba było jednak zawiązać pakt krwi.
 
-Jak się jednak okazało, do zawiązaniego takiego paktu, obie księgi Pary muszą być blisko siebie, co było niewykonalne. Zamiast tego, od razu przywoływał własną księgę Pary z której to spróbował wyrysować inkantacje Biesiadnego Pudełka.
+Jak się jednak okazało, do zawiązania takiego paktu, obie księgi Pary muszą być blisko siebie, co było niewykonalne. Zamiast tego, od razu przywoływał własną księgę Pary z której to spróbował wyrysować inkantacje Biesiadnego Pudełka.
 
 W trakcie gdy się tym zajmował, Podróżniczka zwinęła się w kulkę przy schodkach. Bard zaoferował jej początkowo shemagh którym to okrywał się gdy nie miał koca - jako że był wystarczająco duży - podczas Festiwalu Magii. Jednak stwierdził że płaszcz będzie bardziej adekwatny do tego zadania, podczas leżenia na podłodze. Udał się więc po niego, a gdy powrócił, Podróżniczka prawie natychmiast wtopiła się w niego. Jedno jej trzeba przyznać - Zwiadowczą lekcję "Zaufaj Płaszczowi" przyjęła do serca.
 
-Szkicowniczka natomiast zajęła się szkicowaniem karykatur różnych osób obecnych w oczekiwaniu na inktantacje. Z nimi nie szło jednak najlepiej - był jakiś problem z magicznym połączeniem do kamieni. Próbowaliśmy również innych inktantacji, z innymi pudełkami, lecz finalnie nic nie dało rady. Szeryfka postanowiła wrócić do głównych komnat i kimnąć się w ciszy. 
+Szkicowniczka natomiast zajęła się szkicowaniem karykatur różnych osób obecnych w oczekiwaniu na inktantacje. Z nimi nie szło jednak najlepiej - był jakiś problem z magicznym połączeniem do kamieni. Próbowaliśmy również innych inkantacji, z innymi pudełkami, lecz finalnie nic nie dało rady. Szeryfka postanowiła wrócić do głównych komnat i kimnąć się w ciszy. 
 
 ![](caricature.pl.webp)
 
-Gadatliwiec pomyślał o inkantacji symulacji biznesu, znalazł ją w mojej księdze Pary po czym poradził sobie z jej rozstawieniem bez większych problemów. Znawca. Towarzyszka z którą większość wieczoru rozmawiał miała się zbierać by móc towarzyszyć swojemu wybrankowi na mieście podczas gry na instrumencie następnego dnia. 
+Gadatliwiec pomyślał o inkantacji symulacji biznesu, znalazł ją w mojej księdze Pary po czym poradził sobie z jej rozstawieniem bez większych problemów. Znawca. Towarzyszka z którą większość wieczoru rozmawiał miała się zbierać by móc towarzyszyć swojemu wybrankowi na mieście podczas gry na instrumencie następnego dnia.
 
-Gadatliwcowi jednak udalo się ją przekonać by zagrała z nim rundę symulacji. W między czasie, na korytarzu przed, Bard zagrał kawałek swojej piosenki poproszony przez Szkicowniczkę, która to również zajmowała się śpiewem. Gdy Podróżniczka to usłyszała, również przyszła bliżej by posłuchać. Słowa z którymi walczył ponad rok w różnych wersjach utworu zostawiły go bez ładu z jedynie refrenem, więc zajął się improwizacją następnych słów, dosłownie śpiewając o tym że zaczął improwizować, byle tylko utrzymać motyw.
+Gadatliwcowi jednak udało się ją przekonać by zagrała z nim rundę symulacji. W między czasie, na korytarzu przed, Bard zagrał kawałek swojej piosenki poproszony przez Szkicowniczkę, która to również zajmowała się śpiewem. Gdy Podróżniczka to usłyszała, również przyszła bliżej by posłuchać. Słowa z którymi walczył ponad rok w różnych wersjach utworu zostawiły go bez ładu z jedynie refrenem, więc zajął się improwizacją następnych słów, dosłownie śpiewając o tym że zaczął improwizować, byle tylko utrzymać motyw.
 
 Szkicowniczka określiła głos Barda jako momentami nie pewny, szczególnie pod koniec - czyli dokładnie tam gdzie improwizował, lecz nie wsłuchała się w słowa z tego co mówiła. Na chwilę oddalił się po coś do komnaty, co tylko wywołało u Podróżniczki zawołanie by wracał.
 
@@ -187,31 +186,31 @@ Po pół godzinie rozgrywki, Gadatliwiec ze swoją towarzyszką wygrali 5.5m do 
 
 Gdy Bard z Podróżniczką kontynuowali swój pojedynek, momentami przypominający taniec, na uniki i tyknięcia, Szkicowniczka rzuciła że takie tykanie raz skończyło się ślubem.
 
-Bard korzystając więć z okazji, wydobył z sakiewki pudełeczko po czym przyklęknął na jedno kolano otwierając je, z pierścionkiem w środku. ~~(Kiedyś może kogoś znajdzie na tą zdobycz Łotrzyka...)~~
+Bard korzystając więc z okazji, wydobył z sakiewki pudełeczko po czym przyklęknął na jedno kolano otwierając je, z pierścionkiem w środku. ~~(Kiedyś może kogoś znajdzie na tą zdobycz Łotrzyka...)~~
 
 # Bis
 
-Uznaliśmy to za idealny moment by rozstawić Inkantacje Karaoke. Było już po czwartej, i oczy zamykały się jeszcze jednej parze która to postanowiła nazwać to nocą i udać się w swoją stronę, toteż ich odprowadziłem, jednocześnie przekonując osobę która była na pograniczu, by została. 
+Uznaliśmy to za idealny moment by rozstawić Inkantacje Karaoke. Było już po czwartej, i oczy zamykały się jeszcze jednej parze która to postanowiła nazwać to nocą i udać się w swoją stronę, toteż ich odprowadziłem, jednocześnie przekonując osobę która była na pograniczu, by została.
 
-Gdy trzecia osoba z ich tercetu finalnie zdecydowała się zostać, mnie doszły wieści o konflikcie z inną osobą. Będąc osobą która preferuje konfrontację bezpośrednią, ~~a w szczególności gdy nie jestem po żadnej ze stron konfliktu,~~ zaproponowałem że kwestie należy wyjaśnić i abyśmy wrócili do pozostałych by temat domknąć. Nie było to czymś co chciała zaczynać ta osoba jednak, lecz udała się razem ze mną do pozostałych. 
+Gdy trzecia osoba z ich tercetu finalnie zdecydowała się zostać, mnie doszły wieści o konflikcie z inną osobą. Będąc osobą która preferuje konfrontację bezpośrednią, ~~a w szczególności gdy nie jestem po żadnej ze stron konfliktu,~~ zaproponowałem że kwestie należy wyjaśnić i abyśmy wrócili do pozostałych by temat domknąć. Nie było to czymś co chciała zaczynać ta osoba jednak, lecz udała się razem ze mną do pozostałych.
 
 Tematu jednak nie poruszyłem od razu, z jednej strony czekałem na odpowiednią chwilę, z drugiej... na pewne konfrontacje jest czas i miejsce. To nie było ani jedno ani drugie jeszcze.
 
-Szkicowniczka zapytała mnie czy miałbym może coś do picia, jako ze zaschło jej w gardle. Zaoferowałem jej więc resztkę wody w bukłaku który był obok (ten sam użyty do gry w butelkę), lecz obawiała się że to jedyna woda i nie chciała mi jej wypijać. Podróżniczka rzuciła żeby brała oferowaną wodę, podczas gdy ja wyciągnałem drugi bukłak i powiedziałem że spokojnie, jest więcej ~~(więc nie marudź Szkicowniczko tylko pij)~~.
+Szkicowniczka zapytała mnie czy miałbym może coś do picia, jako ze zaschło jej w gardle. Zaoferowałem jej więc resztkę wody w bukłaku który był obok (ten sam użyty do gry w butelkę), lecz obawiała się że to jedyna woda i nie chciała mi jej wypijać. Podróżniczka rzuciła żeby brała oferowaną wodę, podczas gdy ja wyciągnąłem drugi bukłak i powiedziałem że spokojnie, jest więcej ~~(więc nie marudź Szkicowniczko tylko pij)~~.
 
 Zaczęliśmy więc śpiewać, po czym każdy z nas (a przynajmniej ci co jeszcze żyli) spróbował się z Wilczą Zamiecią. Nieswiadomie, i zdecydowanie nie celowo, okazało się że sabotowałem Podróżniczkę gdy Szkicowniczka pod koniec powiedziała ze było świetnie tylko za nisko. Po czym uznaliśmy że zamiast dośpiewać do melodii z przodu, dostroiła się do melodii z tyłu - czyli tam gdzie sam byłem.
 
 Po czym, korzystając z tajemnej wiedzy jak czar punktuje wynik... Poszedłem po zieloną kombinację. Jak to mawiają... Dom zawsze wygrywa? Szkicowniczka wzięła mnie na stronę. Nie aby skarcić za kantowanie niczym w kartach, tylko w ramach lekcji śpiewu.
 
-Tam wyjawiła mi kilka porad by rozluźnić szczękę, oraz śpiewać wyżej z wykorzystaniem czaszki, pokazując na czaszce Kostka o które partie jej chodzi. Biedaczyna musiał robić za przykład, zamiast klasycznie odpowiadać na pytanie być czy nie być... Chociaż kto wie, może nawet podobała mu się ta zmiana, trudno powiedzieć - nie rozmawialiśmy zbytnio o tej sytuacji później. Odniosłem wrażenie że mógł nie być z niej specjalnie zadowolony. Szczególnie gdy musiał zbierać szczęke z podłogi.
+Tam wyjawiła mi kilka porad by rozluźnić szczękę, oraz śpiewać wyżej z wykorzystaniem czaszki, pokazując na czaszce Kostka o które partie jej chodzi. Biedaczyna musiał robić za przykład, zamiast klasycznie odpowiadać na pytanie być czy nie być... Chociaż kto wie, może nawet podobała mu się ta zmiana, trudno powiedzieć - nie rozmawialiśmy zbytnio o tej sytuacji później. Odniosłem wrażenie że mógł nie być z niej specjalnie zadowolony. Szczególnie gdy musiał zbierać szczękę z podłogi.
 
 Reszta nie mogła znaleźć Innej Miłości, znaleźli tylko Inną Piosenkę - więc olali inkantację i zrobili własną by zwieńczyć Karaoke brakującym utworem.
 
 # Tam gdzie wszystko się zaczęło...
 
-Uznaliśmy że to dobry moment by pójść coś zjeść. A tak właściwie to po prostu byłem głodny i totalita... totalnie demokratycznie skłoniłem resztę że też tego chcą, nawet jeśłi o tym nie wiedzą. Udaliśmy się wiec z powrotem do głownych komnat, po drodze, zguba z góry wraz z drugą wciągnęły Szkicowniczkę do poważnych rozmów.
+Uznaliśmy że to dobry moment by pójść coś zjeść. A tak właściwie to po prostu byłem głodny i totalita... totalnie demokratycznie skłoniłem resztę że też tego chcą, nawet jeśłi o tym nie wiedzą. Udaliśmy się więc z powrotem do głównych komnat, po drodze, zguba z góry wraz z drugą wciągnęły Szkicowniczkę do poważnych rozmów.
 
-Później, w komntach kuchennych wraz ze szkicowniczką zajęliśmy się przygotowaniami ciasta do naleśników. Właściwie to przydział był otwarty, ale jak wszyscy wiemy, gdzie kucharek sześć, tam nie ma co jeść. Więc tak oto, 3 osoby dogorywały w salonie, Szkicowniczka mieszała ciasto (zaczepiście jej wyszło, mimo że ilość wydawała mi się trochę zbyt duża jak na miskę w której to robiliśmy), jedna osoba ogarniała w między czasie po-imprezowy bałagan a ja udawałem że wiem co robię przygotowując składniki i przedstawiając przepis.
+Później, w komnatach kuchennych wraz ze szkicowniczką zajęliśmy się przygotowaniami ciasta do naleśników. Właściwie to przydział był otwarty, ale jak wszyscy wiemy, gdzie kucharek sześć, tam nie ma co jeść. Więc tak oto, 3 osoby dogorywały w salonie, Szkicowniczka mieszała ciasto (zaczepiście jej wyszło, mimo że ilość wydawała mi się trochę zbyt duża jak na miskę w której to robiliśmy), jedna osoba ogarniała w między czasie po-imprezowy bałagan a ja udawałem że wiem co robię przygotowując składniki i przedstawiając przepis.
 
 Ciasto jeszcze nie było gotowe, więc zajrzałem do pozostałych w salonie. Tam podróżniczka, opatulona w płaszcz, niczym demoniczny cień drzemała pod zbroją Rycerza, a druga osoba próbowała na dwóch krzesłach obok siebie.
 
@@ -219,9 +218,9 @@ Ciasto jeszcze nie było gotowe, więc zajrzałem do pozostałych w salonie. Tam
 
 Pffft, #PodłogaTeżWygodna! Położyłem się na niej, przypadkowo urządzając zdarzenie które zainspirowało tę dwójkę do dołączenia na podłodze. Zbyt długo jednak nie poleżeliśmy, ponieważ obowiązki (a właściwie żołądek) wzywały - pora była upichcić potrawę.
 
-Nim jednak się za to zabrałem - należało zebrać zamówienia! Zgarnąłem szkicownic za pozwoleniem, po czym udałem się niczym kelner do pozostałych - zadręczyć ich iluzją wyboru której tak naprawdę nie mieli: Słodkie czy wytrawne naleśniki?
+Nim jednak się za to zabrałem - należało zebrać zamówienia! Zgarnąłem szkicownik za pozwoleniem, po czym udałem się niczym kelner do pozostałych - zadręczyć ich iluzją wyboru której tak naprawdę nie mieli: Słodkie czy wytrawne naleśniki?
 
-Problem był jednak prosty - nie miałem absolutnie nic sensownego do słodkich naleśników. Przedstawiłem wybór i opcję wytrawnych, lecz nie zaiskrzyła wśród publiki. Gdy wróciłem do kuchni, zdałem sobie sprawę że jest jeszcze jeden rodzaj sera i suszonych owoców. Podróżniczka gdy się o tym dowiedziała, zmieniła zdanie właśnie na tą kombinację. 
+Problem był jednak prosty - nie miałem absolutnie nic sensownego do słodkich naleśników. Przedstawiłem wybór i opcję wytrawnych, lecz nie zaiskrzyła wśród publiki. Gdy wróciłem do kuchni, zdałem sobie sprawę że jest jeszcze jeden rodzaj sera i suszonych owoców. Podróżniczka gdy się o tym dowiedziała, zmieniła zdanie właśnie na tą kombinację.
 
 Do jednego ze słodkich naleśników wrzuciłem kostki Angolskiej czekolady, mając nadzieję że się rozpuszczą. Przyznam, to nie był mój najlepszy moment jako kucharz, właściwie to jeden z gorszych. Ale co takiego mogło się wydarzyć? Nie wpuściliby mnie do kuchni więcej? Pfft! Dla niektórych brzmiałoby to jak wygrana!
 
@@ -235,7 +234,7 @@ Doszły mnie już kiedyś wieści że gluten działa usypiająco. Mi jednak był
 
 Tuż po jedzeniu, jedna z osób oznajmiła że niedługo będzie miała wielokarocę i musi nas opuściła. Szeryfka też wstała, powiedziała ze nim zasnęła coś tam jeszcze słyszała z góry, między innymi perkusyjność instrumentu Barda jak grał parę godzin wcześniej i zastanawiała się co to, a po krótkiej rozmowie zaczęła się też zbierać w swoją stronę.
 
-Podróżniczka postanowiła się finalnie zdrzemnąć tak bardziej. Wybadała więc teren kiedy powinna wstać, po czym udała się do komnat wyżej. 
+Podróżniczka postanowiła się finalnie zdrzemnąć tak bardziej. Wybadała więc teren kiedy powinna wstać, po czym udała się do komnat wyżej.
 
 Szkicowniczka również rozważała drzemkę, lecz finalnie wraz z pozostałą dwójką gości postanowili się zbierać - oryginalnie mieli nocować u znajomej, cała trójka jednak skończyła aż do 8 u mnie, więc uznali że nie ma co spać i wrócą od razu do siebie.
 
@@ -245,8 +244,8 @@ Po ogarnięciu jako na dole tako i na górze posiadłości, i Bard postanowił s
 
 Spisuję te słowa, jak już zwykłem, po powrocie do życia, który tym razem trwał o wiele dłużej niż zwykle a uśpiona rana biegnąca przez serce Barda zaczęła pulsować niczym rwąca rzeka na mapie.
 
-Taka oto jest kronika i opowieść o zderzeniu światów, przy ulicy miasta na pograniczu, w nocy z 11 na 12 lipca.  
+Taka oto jest kronika i opowieść o zderzeniu światów, przy ulicy miasta na pograniczu, w nocy z 11 na 12 lipca.
 
-                        ~ Podpisano, Wasz oddany kronikarz, arcymag i gospodarz.  
+                        ~ Podpisano, Wasz oddany kronikarz, arcymag i gospodarz.
 
 Ta noc minęła, a co gwiazdy przyniosą następnie? To się jeszcze okaże, a nam pozostaje zagrać pozostałe karty najlepiej jak możemy...
