@@ -13,11 +13,11 @@ images:
   - froge.jpg
   - crystals.jpg
 ---
-2 dni wcześniej wybił początek 27 roku, a więc ostatniego z trzeciego cyklu. A teraz na dodatek była Pełnia Żniw. Pora zbiorów i konsekwencji. Mi jednak pozostało jeszcze parę kostek domina do ustawienia...
-
-Posłałem więc kruki po mistyków i magów, czarodziei i alchemików z najdalszych zakamarków królestwa i poza nim. By ukryć prawdziwy powód tak specyficznego zbiorowiska, zaprosiłem również arystokrację, osoby rodzin królewskich i rycerzy. Wieść o wydarzeniu dotarła również i do półświatka, do szpiegów i zabójców, a nawet nieśmiertelnych i demonów. 
+Posłałem kruki po mistyków i magów, czarodziei i alchemików z najdalszych zakamarków królestwa i poza nim. By ukryć prawdziwy powód tak specyficznego zbiorowiska, zaprosiłem również arystokrację, osoby rodzin królewskich i rycerzy pod prozaicznym pretekstem Biesiady Urodzinowej. Wieść o wydarzeniu dotarła również i do półświatka, do szpiegów i zabójców, a nawet nieśmiertelnych i demonów. 
 
 Zgromadziło się więc nie lada towarzystwo aż 36 niezwykle barwnych gości. Każdy z nich, przybył z czterema kryształami ich żywiołu - ognia, wody, powietrza lub ziemi którymi to wymieniali się tego wieczoru. Pełnia zbiorów natomiast miała dla każdego z gości pewne wyzwania - niektórzy im podołali, inni, niekoniecznie. Trzy osoby, nie znając się wcześniej były nawet ubrane w kolory szkarłatu.
+
+2 dni wcześniej wybił początek 27 roku, a więc ostatniego z trzeciego cyklu. A teraz na dodatek była Pełnia Żniw. Pora zbiorów i konsekwencji. Mi jednak pozostało jeszcze parę kostek domina do ustawienia...
 
 # Przybysze
 
@@ -59,7 +59,7 @@ Po tańcu, widząc jakby ledwo stała zapytałem ile wypiła, ponieważ sprawia�
 
 Jedna z awanturników szukała reszty. Odnaleźliśmy ich w pokoiku podczas narady. Szło im całkiem sprawnie, jednak wciąż nie mogli zlokalizować fragmentu dziennika, a zarazem odpowiedzi na zagadkę która to Pełnia przed nimi postawiła. 
 
-Zbliżala się 23, Hazardziści skończyli swoje hedonistyczne zapędy - prawdopodobnie tracąc wszystko na rzecz jednego - a jeden z nich oznajmił mi że zajmie się wreszcie grillem którego to odkładał cały wieczór twierdząc że było za wcześnie. Zostałem jedynie spytany po drodze czy mogą skorzystać z przypraw które miałem w spichlerzu. 
+Zbliżala się 23, Hazardziści skończyli swoje hedonistyczne zapędy - prawdopodobnie tracąc wszystko na rzecz jednego. Chociaż, co prawda, doszły mnie później wieści o remisie w grze bez remisa i oddaniu kłótni na rzecz tego którego nie da się przegadać. Jeden z nich oznajmił mi że zajmie się wreszcie grillem którego to odkładał cały wieczór twierdząc że było za wcześnie. Zostałem jedynie spytany po drodze czy mogą skorzystać ze wschodnio południowych przypraw które to miałem w spichlerzu. 
 
 ![||1000x500](grill.jpg)
 
@@ -182,15 +182,15 @@ Ci z nas co pozostali - więc 3 podróżników wciąż czekających na transport
 
 Dwóch podróżników miałem odwiedzić w drodze powrotnej z jednej ze swoich ostatnich wypraw, oraz wstąpić na festiwal koniunkcji sfer. Niestety jednak, plany delikatnie... mocno uległy zmianie w trakcie owej wojaży.
 
-Z początku, miałem udać się w góry, do tamtejszego niezależnego królestwa wraz z inną osobą, a następnie, wracając przez Bawarię, udać się i po drodze odwiedzić królestwo Rycerza i trafić do krainy Pierników na koniunkcję.
+Z początku, miałem udać się w góry, do tamtejszego niezależnego królestwa wraz z inną osobą, a następnie, wracając przez Bawarię, po drodze odwiedzić królestwo Rycerza i dalej by trafić do krainy Pierników na koniunkcję.
 
-Niestety jednak, będąc w Bohemii, Kruk dostarczył mi wiadomość że osoba z którą miałem podróżować przez góry jednak się tam nie zjawi, lecz mogę ją odwiedzić w Marchii Wschodniej. Dodatkowo, otrzymałem od Zwiadowczyni Kruka z terminem kiedy to będzie w rejonach Dobrudży, więc mogłem rozplanować podróż tak by trafić tam w podobnym terminie.
+Niestety jednak, będąc w Bohemii, Kruk dostarczył mi wiadomość że osoba z którą miałem podróżować przez góry jednak się tam nie zjawi, lecz mogę ją odwiedzić w Marchii Wschodniej. Dodatkowo, otrzymałem od Zwiadowczyni wiadomość z terminem kiedy to będzie w rejonach Dobrudży, więc mogłem rozplanować podróż tak by trafić tam w podobnym terminie.
 
-Wcześniej już dowiedziałem się że Zwiadowczyni będzie na terenach morza pozbawionego koloru, w ramach jednego z rajdów na które się udawała. Nie planowałem tam wyruszać, lecz pojawienie się w Marchii było po drodze w tamte strony. Chociaż, możliwe ze musiałbym wpakować się w jakąś skrzynię na tyle karocy która akurat by jechała w tamtą stronę... Było to jednak jak najbardziej wykonalne, choć, pozbawione większego sensu. 
+Wcześniej już dowiedziałem się że będzie ona na terenach morza pozbawionego koloru, w ramach jednego z rajdów na które się udawała, lecz nie znałem wtedy daty. Nie planowałem tam wyruszać, lecz pojawienie się w Marchii było po drodze w tamte strony. Chociaż, możliwe ze musiałbym wpakować się w jakąś skrzynię na tyle karocy która akurat by jechała w tamtą stronę... Było to jednak jak najbardziej wykonalne, choć, pozbawione większego sensu. 
 
 Ledwo wstęp, a Gadatliwiec przerywał bez zmiłowania, najpierw pytając o [Wiedźmę z Lasu](../beltane-fire-2026) a następnie, nagle dopytując o [Wiedźmy](../kupala-night-2025) sprzed [paru](../campfire-june-2025) [miesięcy](campfire-summer-encore-2025)... [Kontekst wiedźm](../party-november-2025) jednak nie był znany reszcie towarzystwa, toteż nie chcąc ich nadmiernie wykluczać i skakać po tematach, wolałem dokończyć oryginalną opowieść. A następnie powrócić do pytań Gadatliwca. 
 
-Poddałem więc Teorię Chaosu do testu i udałem się w odyseję ku Zewowi Przygody i Pustki. W trakcie drogi, dowiedziałem się że w Muntenii był obecny jeden z pozostałych gości tej nocy, ten który to już udał się na parowóz - Strażnik Mroku. Gdy spotkałem tam go, jego wybrankę oraz ich rodzinę, udałem się wraz z nimi nad brzeg. Tam mogliśmy być świadkami akrobacji Delfinów oraz wodnego biesa, foki, robiącej sztuczki.  
+Poddałem więc Teorię Chaosu do testu i udałem się w odyseję ku Zewowi Przygody i Pustki. W trakcie drogi, dowiedziałem się że w Muntenii był obecny jeden z pozostałych gości tej nocy, ten który to już udał się na parowóz - Strażnik Mroku. Gdy spotkałem tam go, jego wybrankę oraz jej rodzinę, udałem się wraz z nimi nad brzeg. Tam mogliśmy być świadkami akrobacji Delfinów oraz wodnego biesa, foki, robiącej sztuczki.  
 
 Niestety, jak się okazało, nie byłem tam mile widzianym gościem - w końcu wpakowałem się na wyjazd rodzinny. Co prawda, byłem już w rejonach Dobrudży, lecz w złym królestwie.
 
@@ -206,9 +206,9 @@ Huh? Odważnie. Wyciągnąłem więc i drugą. Półtorej godziny. Po tym czasie
 
 Była to druga sytuacja tamtego dnia gdy Kruk powstrzymał mnie na minutę przed znalezieniem noclegu na noc... Wróciłem więc do nich, by może z dwie godziny spędzić z ową znajomą nim ta przepadłaby jak kamień w wodę.
 
-Pół kontynentu by spotkać jedną osobę na mniej jak 4 godziny. Ku przygodzie! W drodze powrotnej spotkałem jeszcze marynarza który to podarował mi w następnej butelce odrobinę lokalnego trunku który to udało mi się dostarczyć do posiadłości. Gadatliwiec zdał się nagle przebudzić, jakby czarodziejskie zaklęcie nagle zelżało a on ponownie mógł uczestniczyć w rozmowie.
+Pół kontynentu by spotkać jedną osobę na mniej jak 4 godziny. Ku przygodzie! W drodze powrotnej napotkałem jeszcze marynarza który to podarował mi w następnej butelce odrobinę lokalnego trunku który to udało mi się dostarczyć do posiadłości. Gadatliwiec zdał się nagle przebudzić, jakby czarodziejskie zaklęcie nagle zelżało a on ponownie mógł uczestniczyć w rozmowie.
 
-Następnie, Mag podzielił się z nami opowieścią o swoich relacjach, a gdy zbliżała się 8, i ten musiał się zbierać by zdążyć na parowóz. Niestety, droga pieszo trwałaby prawie pół godziny. Nie było dla niego szans by zdążył więc jedna z pozostałych gości uratowała go wzywając magiczną karocę. 
+Następnie, Mag podzielił się z nami opowieścią o swoich relacjach, lecz nie jest to moje miejsce by je tutaj relacjonować. Zbliżała się 8, a ten musiał się zbierać by zdążyć na parowóz. Niestety, droga pieszo trwałaby prawie pół godziny. Nie było dla niego szans by zdążył więc jedna z pozostałych gości uratowała go wzywając magiczną karocę. 
 
 # Sprzątanie
 
@@ -231,8 +231,6 @@ Wspólnie wyruszyliśmy w miasto w poszukiwaniu drobnego artefaktu, pamiątki kt
 Było jeszcze parę godzin nim jego parowóz by się zjawił po godzinie 17, toteż wróciliśmy do posiadłości. Niestety, moja przeszłość, a konkretniej ostatnie 28h bez snu zaczęło mnie doganiać. Złapałem się na przysypianiu w momencie gdy rzeczywistość zaczęła krwawić, a ja operować w dwóch liniach czasu jednocześnie - odpowiadając na pytanie w jednej odpowiedzią z innego czasu.
 
 Wtedy też Rycerz postanowił że powinien pozwolić mi odpocząć po czym udał się nieco po 16 samotnie na swój parowóz. Sam natomiast dopiero nieco ponad godzinę później udałem się wreszcie w objęcia krainy nocy.
-
----
 
 Taka oto jest kronika i opowieść tej nocy o zderzeniu. Z 26 na 27 września, w posiadłości na pograniczu światów.
 
