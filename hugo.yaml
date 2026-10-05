@@ -51,8 +51,8 @@ params:
   utterancesRepo: Mmesek/mmesek.github.io # Utterances is enabled when this param is set
   utterancesTheme: github-dark # Default: github-dark
   utterancesIssueTerm: pathname # Default: pathname
-  kofi: mmesek
-  buymeacoffee: mmesek
+  #kofi: mmesek
+  #buymeacoffee: mmesek
   cusdis: 8d85159c-8544-4a32-aba4-ff8a58c0d27e
   webmention: mmesek.github.io
 
