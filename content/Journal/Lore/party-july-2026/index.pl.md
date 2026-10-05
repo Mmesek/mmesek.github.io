@@ -6,7 +6,7 @@ lastmod: 2026-07-15
 featured_image: candles.pl.webp
 featured_image_description: Zapalony Kandelabr
 prev: pl/Journal/Lore/beltane-fire-2026
-next:
+next: pl/Journal/Lore/party-september-2026
 featured_image_crop_anchor: Top
 images:
   - candles.pl.webp
