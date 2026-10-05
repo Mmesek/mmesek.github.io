@@ -23,9 +23,9 @@ Zgromadziło się więc nie lada towarzystwo aż 36 niezwykle barwnych gości. K
 
 Pierwszy przybył Smoczy Rycerz, szpieg z odległego królestwa. I jak na członka wywiadu przystało, zjawił się przed wszystkimi by się przygotować. W rezultacie jednak nie udało mi się przygotować odpowiednich mikstur zawczasu. Posuchy jednak nie było - jednymi z pierwszych gości był mag i alchemiczka z królestwa obok którzy przywieźli ze sobą kilka butelek tak zwanej Kombuchy. 
 
-Zaraz po nich zjawił się gość z tacą babeczek. Co prawda, jednej brakowało, lecz lukę wypełniła opowieść podróży i napadu - jak się okazało, historia brakującego smakołyka polegała na wyborze środka transportu - doróżkarz zagroził jej właścicielce że nigdzie nie jedzie dopóty, dopóki jednej chociaż nie otrzyma w zamian za przewóz. Sytuacja była więc patowa, która w żadnym przypadku rozwiązania dobrego nie miała.
+Zaraz po nich zjawił się gość z tacą babeczek. Co prawda, jednej brakowało, lecz lukę wypełniła opowieść podróży i napadu - jak się okazało, historia brakującego smakołyka polegała na wyborze środka transportu - dorożkarz zagroził jej właścicielce że nigdzie nie jedzie dopóty, dopóki jednej chociaż nie otrzyma w zamian za przewóz. Sytuacja była więc patowa, która w żadnym przypadku rozwiązania dobrego nie miała.
 
-Chwilę później otrzymałem również wiadomość od zagubionego podrożnego który to był ulicę dalej. Goście przybywali jeszcze przez następne parę godzin. Pojawiło się też parę osób których obecność mnie zaskoczyła, chociaż powinienem się był spodziewać że wieść się rozniesie.
+Chwilę później otrzymałem również wiadomość od zagubionego podróżnego który to był ulicę dalej. Goście przybywali jeszcze przez następne parę godzin. Pojawiło się też parę osób których obecność mnie zaskoczyła, chociaż powinienem się był spodziewać że wieść się rozniesie.
 
 # Wyzwania Pełni
 
@@ -35,7 +35,7 @@ Chwilę później, dowiedziałem się że gość z dalekiego wyspiarskiego król
 
 ![||1000x500](skewer.jpg)
 
-Gdy jednak wróciłem chwilę później okazalo się że wszystkie szaszłyki już zniknęły, kucharz myślał że już wziąłem jednego dla siebie nim odszedłem. Rozejrzałem się więc za alternatywami, znajdując jedynie ostatnią babeczkę z lawendą z wybrakowanego wcześniej zestawu. Wygląda na to że teraz albo nigdy...
+Gdy jednak wróciłem chwilę później okazało się że wszystkie szaszłyki już zniknęły, kucharz myślał że już wziąłem jednego dla siebie nim odszedłem. Rozejrzałem się więc za alternatywami, znajdując jedynie ostatnią babeczkę z lawendą z wybrakowanego wcześniej zestawu. Wygląda na to że teraz albo nigdy...
 
 Następnie, jedna z gości, zachęcona przez koleżankę po fachu, wygłosiła toast dla gospodarza. Trwał on dobrą chwilę, lecz okazało się że nie był on bezinteresowny, gdy Bankierka zgłosiła się po zapłatę za inicjatywę. Korzystając ze zgromadzenia, Para gości postanowiła również uroczyście wręczyć pewien podarek gospodarzowi, upamiętniający te wszystkie ostatnie spotkania.
 
@@ -49,9 +49,9 @@ Byłem w swojej własnej domenie, a miejsce gdzie się znajdowaliśmy - z doświ
 
 # Poszukiwania Wskazówek
 
-W między czasie, grupa awanturników - podróżników, alchemików i magów - szukała wskazówek po posiadłości dotyczących rytuałów. W końcu, własnie po to tutaj przybyli.
+W między czasie, grupa awanturników - podróżników, alchemików i magów - szukała wskazówek po posiadłości dotyczących rytuałów. W końcu, właśnie po to tutaj przybyli.
 
-Mi się natomiast udało zlokalizować złodziejkę w głownej komnacie. Zapytałem ją o sakiewkę po czym mnie zbyła i zasłoniła się kimś innym. Dostałem jedynie mętną odpowiedź i machnięcie ręką w stronę korytarza, jakby to tam znajdowała się zguba. W momencie gdy próbowałem odwołać się do jej rozsądku ta zaczęła mnie jawnie ignorować. 
+Mi się natomiast udało zlokalizować złodziejkę w głównej komnacie. Zapytałem ją o sakiewkę po czym mnie zbyła i zasłoniła się kimś innym. Dostałem jedynie mętną odpowiedź i machnięcie ręką w stronę korytarza, jakby to tam znajdowała się zguba. W momencie gdy próbowałem odwołać się do jej rozsądku ta zaczęła mnie jawnie ignorować. 
 
 Nie chciałem jednak nikomu psuć wieczoru, toteż wycofałem się, planując zapytać ponownie na osobności by nie wyciągać takich tematów przy innych. Niedługo później ktoś zaproponował byśmy zatańczyli Belgijkę. Mieszany taniec w parze był więc idealną okazją by rozwiązać sprawę bez wznoszenia żadnych podejrzeń. Jednak i tutaj zostałem zbyty.
 
@@ -59,17 +59,17 @@ Po tańcu, widząc jakby ledwo stała zapytałem ile wypiła, ponieważ sprawia�
 
 Jedna z awanturników szukała reszty. Odnaleźliśmy ich w pokoiku podczas narady. Szło im całkiem sprawnie, jednak wciąż nie mogli zlokalizować fragmentu dziennika, a zarazem odpowiedzi na zagadkę która to Pełnia przed nimi postawiła. 
 
-Zbliżala się 23, Hazardziści skończyli swoje hedonistyczne zapędy - prawdopodobnie tracąc wszystko na rzecz jednego. Chociaż, co prawda, doszły mnie później wieści o remisie w grze bez remisa i oddaniu kłótni na rzecz tego którego nie da się przegadać. Jeden z nich oznajmił mi że zajmie się wreszcie grillem którego to odkładał cały wieczór twierdząc że było za wcześnie. Zostałem jedynie spytany po drodze czy mogą skorzystać ze wschodnio południowych przypraw które to miałem w spichlerzu. 
+Zbliżała się 23, Hazardziści skończyli swoje hedonistyczne zapędy - prawdopodobnie tracąc wszystko na rzecz jednego. Chociaż, co prawda, doszły mnie później wieści o remisie w grze bez remisa i oddaniu kłótni na rzecz tego którego nie da się przegadać. Jeden z nich oznajmił mi że zajmie się wreszcie grillem którego to odkładał cały wieczór twierdząc że było za wcześnie. Zostałem jedynie spytany po drodze czy mogą skorzystać ze wschodnio południowych przypraw które to miałem w spichlerzu. 
 
 ![||1000x500](grill.jpg)
 
-Nie było to problemem, chociaż mięso które miało być przygotowane widziałem jedynie w momencie gdy było przyniesione i wkładane do schładzajacej szafy. To było jednak tyle, ile miałem styczności z tą potrawą, bowiem jedynie udało mi się ujrzeć ujarzmiany ogień w temacie owego grilla.
+Nie było to problemem, chociaż mięso które miało być przygotowane widziałem jedynie w momencie gdy było przyniesione i wkładane do schładzającej szafy. To było jednak tyle, ile miałem styczności z tą potrawą, bowiem jedynie udało mi się ujrzeć ujarzmiany ogień w temacie owego grilla.
 
 Grupa znajdująca się w Kuchni natomiast, gdy tylko spojrzała w dno butelki postanowiła przetestować jej właściwości kręcenia się na płaskiej powierzchni, wymyślając wyzwania w między czasie. Przybyłem gdy jeden z wybrańców Butelki szukał właśnie odpowiednio palącego zwrotu o drugiej osobie i poprosił o pomoc. Jak się okazało, grali w Prawdę, Prawdę czy Prawdę.
 
 Cóż to był za kuriozalny problem? Widać było że jedną z decyzji jego celu było przefarbowanie włosów na rudo, i to z własnej woli. To chyba oczywiste że z tego nie ma już dla niej ratunku.
 
-Przed północą, Poszukiwacze Prawdy wciąż szukiwali odpowiedzi na ostatnią zagadkę. Pomógł im jeden z częstych gości, praktycznie już bywalec w posiadłości. Gdy reszta szukała i zastanawiała się czy przypadkiem ołtarzyk nie posiada zapadki albo ukrytej dźwigni, on zlokalizował księgę o której zagadka mówiła a zaraz za nią znalazł zwój. 
+Przed północą, Poszukiwacze Prawdy wciąż poszukiwali odpowiedzi na ostatnią zagadkę. Pomógł im jeden z częstych gości, praktycznie już bywalec w posiadłości. Gdy reszta szukała i zastanawiała się czy przypadkiem ołtarzyk nie posiada zapadki albo ukrytej dźwigni, on zlokalizował księgę o której zagadka mówiła a zaraz za nią znalazł zwój. 
 
 Okazało się jednak że informacje zawarte w zwoju były już grupie znane z innego źródła. W każdym razie, posiadali już komplet informacji który pozwoliłby im na wykonanie rytuału.
 
@@ -93,7 +93,7 @@ Postanowili skonsultować się więc ze wskazówkami które znaleźli by skompon
 
 Otrzymałem wtedy kryształy które pozostały gościowi, które to schowałem do sakiewki. Jak na zawołanie, zmaterializowała się obok Bankierka, pragnąc zapłaty w zamian za wykonanie Wyzwania Pełni.
 
-W momencie gdy wyciągnąłem sakiewkę z bursztynem, duch zabójcy okazał się być zmorą która w świetle księzyca zyskała na powrót fizyczną postać po czym wyrwała mi sakiewkę z ręki rozrywając ją i rozsypując bursztyn po podłodze.
+W momencie gdy wyciągnąłem sakiewkę z bursztynem, duch zabójcy okazał się być zmorą która w świetle księżyca zyskała na powrót fizyczną postać po czym wyrwała mi sakiewkę z ręki rozrywając ją i rozsypując bursztyn po podłodze.
 
 Gdyby to wydarzyło się pierwszy raz, albo gdybyśmy byli gośćmi u kogoś innego, może i puściłbym to płazem. Jednak zmora była złodziejką poprzedniej sakiewki która nie wykazała krztyny współpracy wcześniej. Był to również swoisty atak na gospodarza w jego własnej posiadłości, i to w momencie gdy ten uznał że coś jest warte przekazania kawałka kryształu dla drugiej osoby. 
 
@@ -111,7 +111,7 @@ Mag odprowadził gości do ich karocy by jeszcze powspominać stare czasy. Chwil
 
 ![|Center|1000x500](moon.jpg)
 
-Jak się okazało, mieli trochę do rozmowy, gdy się zbliżałem dało się słyszeć namawianie aby pojawił się w mieście i za tydzień. Pożegnał się raz jeszcze poczym wróciliśmy do posiadłości. U progu powitała nas kapłanka która postanowiła zwrócić mi relikwię którą to otrzymała wcześniej w ramach pomocy przy lokalizowaniu sił nieczystych. 
+Jak się okazało, mieli trochę do rozmowy, gdy się zbliżałem dało się słyszeć namawianie aby pojawił się w mieście i za tydzień. Pożegnał się raz jeszcze po czym wróciliśmy do posiadłości. U progu powitała nas kapłanka która postanowiła zwrócić mi relikwię którą to otrzymała wcześniej w ramach pomocy przy lokalizowaniu sił nieczystych. 
 
 Stwierdziła że nie nadaje się na swoją profesję i lepiej jeśli zwróci mi owy przedmiot. Odparłem że jest on bardzo prosty w obsłudze, wystarczy wskazać nim na kogoś. W ramach prezentacji, wycelowałem w stronę maga. 
 
@@ -125,7 +125,7 @@ Chwilę później, dzwony rozległy się ponownie zwiastując pojawienie się os
 
 Śmiałkowie postanowili przystąpić do przeprowadzenia rytuału. Z początku myślałem że wystarczy im prosta transmutacja i połączenie żywiołów. Lecz nie, jak się okazało - kryształy nie miały już dla nich wartości. Pragnęli przeprowadzić pełny obrzęd.
 
-Najpierw, trzeba było przeprowadzić Rytuał Stabilizujący - polegał on na ustabilizowaniu dzikiej energii by można było na niej operować. Wymagane były w tym celu 4 osoby które nie były już nic winne Pełni, oraz 8 kryształów żywiołów, po dwa na każdy rodzaj. Każda z osób biorących udział w rytuale miała wspóldzielić z innymi osobami po dwa żywioły. Jakości znaków zodiaku uczestników były stałe komponując się ze strukturą zaklęcia.
+Najpierw, trzeba było przeprowadzić Rytuał Stabilizujący - polegał on na ustabilizowaniu dzikiej energii by można było na niej operować. Wymagane były w tym celu 4 osoby które nie były już nic winne Pełni, oraz 8 kryształów żywiołów, po dwa na każdy rodzaj. Każda z osób biorących udział w rytuale miała współdzielić z innymi osobami po dwa żywioły. Jakości znaków zodiaku uczestników były stałe komponując się ze strukturą zaklęcia.
 
 Następny był Rytuał Wiążący - czyli nadanie intencji, związanie dzikiej magii w sposób pozwalający na jej wykorzystanie. Tym razem, poza ponownie czterema śmiertelnikami którzy to już osiągnęli po co tutaj przybyli, potrzeba było jeszcze sześciu kryształów eteru, oraz trzech alchemicznych składników. Sól miała ustabilizować zaklęcie w świecie fizycznym. Rtęć w świecie duchów, natomiast Siarka niosła zaklęcie.
 
@@ -141,7 +141,7 @@ Tak też się stało, a rytuał pozwolił na kontrolę nad wyrwą. Czarownicy je
 
 W trakcie rytuału, Mag który był jedną z przewodzących mu osób (poza mną, oczywiście) okazał się być jedynie duchem. Efekt rytuału, czyli pozostawienie wyrwy otwartej pozwoliło pozostać mu w fizycznym ciele.
 
-Ujarzmili wyrwę ogniem - niebiezpiecznym żywiołem pozwalającym na stworzenie broni. 
+Ujarzmili wyrwę ogniem - niebezpiecznym żywiołem pozwalającym na stworzenie broni. 
 
 Wydarzenia tej nocy wydawać by się mogło że wpłynęły zarówno tak na przyszłość jak i na to co już się wydarzyło - Świat w końcu raz wcześniej stanął w płomieniach. Czy to było echo zdarzeń tej nocy, czy zwiastun tego co miało dopiero nadejść?
 
@@ -153,7 +153,7 @@ Na poddaszu trzymam starą zaklętą broń na wszelki wypadek. To był właśnie
 
 # Potwory Przeszłości
 
-Nie było to jednak chwili wytchnienia dla potępionych. Nieco ponad dwa miesiące wcześniej powołaliśmy do życia dwa potwory, które teraz wzmocnione otwartymi wrotami, oraz wyczuwając osłabienie gości, zmateralizowały się by nas zaatakować. 
+Nie było to jednak chwili wytchnienia dla potępionych. Nieco ponad dwa miesiące wcześniej powołaliśmy do życia dwa potwory, które teraz wzmocnione otwartymi wrotami, oraz wyczuwając osłabienie gości, zmaterializowały się by nas zaatakować. 
 
 Król pokonał jednego z potworów, przebijając go. Na wszelki wypadek wykorzystaliśmy ogień rytuału by spalić resztki stwora. Czy powołaliśmy do życia demona? Przekroczymy ten most gdy do niego dotrzemy. Gdy popiół osiadł na posadzce z mroku zaatakował drugi potwór.
 
@@ -170,11 +170,11 @@ Z popiołów wyłoniła się czaszka. Zadała nam dosyć prozaiczne pytanie: By�
 
 Zamiast tego jednak pojawił się kącik rysowniczy. Dwie osoby postanowiły nazwać to nocą i nas opuścić. Przez chwilę, jeden z nich sprawiał wrażenie jakby był pod mocnym wpływem miodu pitnego do tego stopnia że zielarka rozważała podrzucenie go najętą karocą po drodze, lecz finalnie odeszli w odmienne strony samotnie.
 
-Nastał moment w którym tanecznym krokiem została podjęta próba Skrzypka, następnie Belgijki, przewinął się również Walc Zapomnienia wraz z prezentacją kroków po kwadracie. A na zwieńczenie pojawił się Polonez, który to przeszedł przez pół posiadłości. Niestety, gdy tylko początek grupy oddalił się od źródła zaklętej muzyki, część tancerzy również się gdzies zapodziała, toteż wymagał powrotu do głównej komnaty czym prędzej. 
+Nastał moment w którym tanecznym krokiem została podjęta próba Skrzypka, następnie Belgijki, przewinął się również Walc Zapomnienia wraz z prezentacją kroków po kwadracie. A na zwieńczenie pojawił się Polonez, który to przeszedł przez pół posiadłości. Niestety, gdy tylko początek grupy oddalił się od źródła zaklętej muzyki, część tancerzy również się gdzieś zapodziała, toteż wymagał powrotu do głównej komnaty czym prędzej. 
 
 Było już po 4. Tam, Mag wspomniał mi o swoim podarku który to okazał się być portretem naszej grupy z momentu gdy się poznaliśmy, [Balu Luster](../bal-luster-march-2026). Postanowiliśmy i tym razem wyczarować nasze portrety, toteż ustawiliśmy się. A konkretniej to zostałem siłą przytrzymany w powietrzu przez pozostałych w trakcie owej sesji portretowej. Przynajmniej powietrze było lekkie do uniesienia dla nich...
 
-Przybysz z krainy Pierników już rozpoczął wstępne sprzątanie, toteż dołączyliśmy do niego. Około 4:30, opuścił nas strażnik mroku korytarza wraz z alchemiczką - jak się okazało, oboje mieszkali niedaleko siebie, praktycznie będąc sąsiadami w innym królestwie. Teraz zmierzali na ten sam parowóz. Kapłanka, Król oraz Wampirzyca również nas wtedy opuścili, a kwadrans później, nieco przed 5 i Szkarłatna Skorpionka nazwała to nocą. Wielu z nich nie było w mej posiadłości pierwszy raz, lecz jeden z pierwszych kiedy to tak wcześnie zakończyli biesadę. Chwilę później i przybysz który przybył jako ostatni, zamiotwszy popioły potworów udał się w swoją stronę.
+Przybysz z krainy Pierników już rozpoczął wstępne sprzątanie, toteż dołączyliśmy do niego. Około 4:30, opuścił nas strażnik mroku korytarza wraz z alchemiczką - jak się okazało, oboje mieszkali niedaleko siebie, praktycznie będąc sąsiadami w innym królestwie. Teraz zmierzali na ten sam parowóz. Kapłanka, Król oraz Wampirzyca również nas wtedy opuścili, a kwadrans później, nieco przed 5 i Szkarłatna Skorpionka nazwała to nocą. Wielu z nich nie było w mej posiadłości pierwszy raz, lecz jeden z pierwszych kiedy to tak wcześnie zakończyli biesiadę. Chwilę później i przybysz który przybył jako ostatni, zamiotwszy popioły potworów udał się w swoją stronę.
 
 # Odłamek Serca
 
@@ -194,11 +194,11 @@ Poddałem więc Teorię Chaosu do testu i udałem się w odyseję ku Zewowi Przy
 
 Niestety, jak się okazało, nie byłem tam mile widzianym gościem - w końcu wpakowałem się na wyjazd rodzinny. Co prawda, byłem już w rejonach Dobrudży, lecz w złym królestwie.
 
-Musiałem więc wrócić w głąb kontynentu. Podczas łapania transportu z powrotem do stolicy, dwóch lokalnych Wołochów podarowało mi dwie butelki lokalnego trunku na podróż. Chwilę później natomiast doróżkarz zatrzymał się i oznajmił że zmierza własnie do stolicy. W drodze, kierowca opowiadał mi o pewnych księgach. Wspomniał jedną którą to akurat otrzymałem tego wieczoru od Gadatliwca. Czyżby wszechświat próbował coś powiedzieć? Gadatliwiec sprawiał wrażenie jakby zasnął. Chyba dlatego udało mi się kontynuować bez większych przeszkód...
+Musiałem więc wrócić w głąb kontynentu. Podczas łapania transportu z powrotem do stolicy, dwóch lokalnych Wołochów podarowało mi dwie butelki lokalnego trunku na podróż. Chwilę później natomiast dorożkarz zatrzymał się i oznajmił że zmierza właśnie do stolicy. W drodze, kierowca opowiadał mi o pewnych księgach. Wspomniał jedną którą to akurat otrzymałem tego wieczoru od Gadatliwca. Czyżby wszechświat próbował coś powiedzieć? Gadatliwiec sprawiał wrażenie jakby zasnął. Chyba dlatego udało mi się kontynuować bez większych przeszkód...
 
 Zbliżała się 6, a Podróżny z krainy Piernika musiał udać się w swoją stronę, natomiast Rycerz postanowił pójść za przykładem Gadatliwca i zaczął szukać miejsca do przekimania, toteż wysłalem go do komnat na górze. Zapytał jeszcze czy może materac byłby dostępny jak [poprzednio](../beltane-fire-2026). Uznałem jednak że łóżko jest wolne i nie ma sensu wyciągać materaca z magazynku obok, więc dałem mu wolną rękę z łóżkiem. Zastrzegłem jedynie byle nie było sytuacji która zdarzyła się dwa miesiące [wcześniej](../party-july-2026) z pewną osobą o której właśnie to prowadziłem opowieść. 
 
-Dwóch jeszcze wytrwale słuchało opowieści, toteż do niej wracając: Osobiście nie piję, a na miejscu w zamian za transport, zgodnie z wytycznymi darczyńcy butelek próbowałem jedną oddać uwczesnemu kierowcy. Dorożkarz jednak stwierdził ze jej nie chce.
+Dwóch jeszcze wytrwale słuchało opowieści, toteż do niej wracając: Osobiście nie piję, a na miejscu w zamian za transport, zgodnie z wytycznymi darczyńcy butelek próbowałem jedną oddać ówczesnemu kierowcy. Dorożkarz jednak stwierdził ze jej nie chce.
 
 Dwa dni później, znalazłem się na powrót nad wybrzeżem, tym razem na południu. Otrzymałem wtedy też kruka od Zwiadowczyni z jej przybliżoną lokalizacją. Gdy się tam znalazłem, wyciągnąłem jedną z butelek z przemytu granicznego w ramach wkupnego w kręgi jej grupy. Spojrzała na nią, po czym zapytała gdzie jest druga.
 
@@ -212,7 +212,7 @@ Następnie, Mag podzielił się z nami opowieścią o swoich relacjach, lecz nie
 
 # Sprzątanie
 
-Do 9 uwinęliśmy się z ogarnięciem komnaty kominkowej by nieco ponad kwadrans później poszła przedostania dwójka gości. Mi natomiast pozostało jedynie dwóch podróżników. A jeden z nich własnie się obudził przespawszy całą noc. A co za tym idzie, zdaje się większą część imprezy...
+Do 9 uwinęliśmy się z ogarnięciem komnaty kominkowej by nieco ponad kwadrans później poszła przedostania dwójka gości. Mi natomiast pozostało jedynie dwóch podróżników. A jeden z nich właśnie się obudził przespawszy całą noc. A co za tym idzie, zdaje się większą część imprezy...
 
 Chwilę porozmawialiśmy. Chleb który przywiózł ze swojego królestwa był nienaruszony po imprezie. Eh, następna rzecz którą trzeba zajmować się na bieżąco aby była odpowiednio ogarnięta...
 
@@ -224,9 +224,9 @@ Posłałem natychmiast do niej Kruka że jeszcze zdąży się załapać na piecz
 
 W trakcie finalnego doprowadzania kuchni do porządku, znaleźliśmy pewną żabę - jegomościa którego pochodzenia nie mogliśmy zlokalizować. Pojawił się tutaj ostatniej nocy.
 
-Gdy powróciłem po odprowadzeniu podróżnego na postój parowozów, obudził się również i drugi podróżnik. A więc pierwszy gość stał się również i ostatnim gościem. Podejrzewałem że rodzina królewska wymaga czegoś więcej niż kawałka desek do spania, lecz gdy zastałem go w komntach na górze... Nie spodziewałem się że zastam pościelone łóżko jak gdyby nigdy nic. Właściwie to dałem mu wolną rękę... ale księcia czasem zdecydowanie łatwo jest rozpoznać...
+Gdy powróciłem po odprowadzeniu podróżnego na postój parowozów, obudził się również i drugi podróżnik. A więc pierwszy gość stał się również i ostatnim gościem. Podejrzewałem że rodzina królewska wymaga czegoś więcej niż kawałka desek do spania, lecz gdy zastałem go w komnatach na górze... Nie spodziewałem się że zastam pościelone łóżko jak gdyby nigdy nic. Właściwie to dałem mu wolną rękę... ale księcia czasem zdecydowanie łatwo jest rozpoznać...
 
-Wspólnie wyruszyliśmy w miasto w poszukiwaniu drobnego artefaktu, pamiątki którą mógłby zabrać ze sobą na tobołku. Wstąpliśmy po drodze jeszcze na jedzenie do gospody serwującej jadło które owy rycerz zwykł jadać a w okolicy starego miasto znaleźliśmy godną przypinkę.
+Wspólnie wyruszyliśmy w miasto w poszukiwaniu drobnego artefaktu, pamiątki którą mógłby zabrać ze sobą na tobołku. Wstąpiliśmy po drodze jeszcze na jedzenie do gospody serwującej jadło które owy rycerz zwykł jadać a w okolicy starego miasto znaleźliśmy godną przypinkę.
 
 Było jeszcze parę godzin nim jego parowóz by się zjawił po godzinie 17, toteż wróciliśmy do posiadłości. Niestety, moja przeszłość, a konkretniej ostatnie 28h bez snu zaczęło mnie doganiać. Złapałem się na przysypianiu w momencie gdy rzeczywistość zaczęła krwawić, a ja operować w dwóch liniach czasu jednocześnie - odpowiadając na pytanie w jednej odpowiedzią z innego czasu.
 
