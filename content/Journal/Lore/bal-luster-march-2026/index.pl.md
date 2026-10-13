@@ -8,6 +8,9 @@ featured_image_crop_anchor: center
 featured_image_description: Lustro
 images:
   - mirror.jpg
+series:
+  - Bal Luster
+next: pl/Journal/Lore/bal-luster-october-2026
 ---
 Jakiś czas temu doszły mnie wieści że Królowa urządza bal dla swoich dworzan by wyprawić księżniczkę za jednego z dwóch książęcych braci. Była to świetna okazja do poznania dworzan oraz okolicznej śmietanki towarzyskiej.
 
