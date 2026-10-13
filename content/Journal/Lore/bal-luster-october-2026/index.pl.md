@@ -6,6 +6,7 @@ title: "Wrap: Noc Przysięgi"
 prev: pl/Journal/Lore/bal-luster-march-2026
 series:
   - Bal Luster
+featured_image: palace.jpg
 ---
 Dawno nie uczestniczyłem w ślubie. Trudno powiedzieć czy dlatego że ostatnie trzy zakończyły się katastrofą z pogrzebem w której mogłem lub nie mieć co nieco do czynienia czy też nie. A ostatnie wesele kolidowało z innym wydarzeniem...
 
